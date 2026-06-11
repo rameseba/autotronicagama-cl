@@ -1,0 +1,632 @@
+[
+  {
+    "id": 3788,
+    "name": "LAUNCH X431 5011 V2 TPMS",
+    "slug": "launch-x431-5011-v2-tpms",
+    "shortDescription": "HERRAMIENTA DE DIAGNOSTICO Y PROGRAMACION DE TPMS",
+    "description": "Características del producto: 1.El aprendizaje de coincidencia de presión de neumáticos se puede realizar a través de la interfaz OBD, se puede leer el ID E-C-U y se puede diagnosticar el sistema de presión de los neumáticos, incluida la lectura de códigos, la borrado de códigos, etc. 2.Los valores de ID del sensor se pueden leer/copiar/escribir. 3.Los datos del sensor se pueden escribir mediante progarming y se admite progarming repetida ilimitada. 4.Los datos de presión de los neumáticos en tiempo real se pueden leer mediante activación, incluido el ID del sensor, la presión de los neumáticos, la temperatura, el estado de la batería, etc. 5.Actualización WIFI con un solo clic, no es necesario usar una computadora para conectar y desconectar la tarjeta de memoria para actualizar, fácil de actualizar. 6.Se pueden activar todos los sensores de presión de neumáticos de 315/433 MHZ y 2,4 Ghz (¡la función de activación de los sensores Bluetooth Tesla se agregará pronto!) 7.Consulta del número OE, puede consultar el menú del modelo de acuerdo con el número de pieza del sensor y el posicionamiento del menú del modelo es más preciso. 8.Apoyar la generación y el uso compartido de informes de diagnóstico, lo que favorece las consultas históricas de diagnóstico y el mantenimiento posventa. 9.Admite retroalimentación de datos, que favorece el desarrollo y la optimización oportuna, y una versión de empuje de punto fijo, lo que ayuda a los clientes a resolver problemas del vehículo de manera oportuna. 10.Las opciones de unidad e identificación se presentan directamente en la interfaz de función del vehículo, lo que facilita la configuración. 11.11 idiomas admitidos: alemán, inglés, español, francés, coreano, italiano, japonés, chino tradicional, portugués, ruso, árabe 12.Admite la expansión del medidor de banda de rodadura de neumáticos, retroalimentación de diagnóstico, aprendizaje de información de mantenimiento de presión de neumáticos, capturas de pantalla y uso compartido en la Academia de LAUNCH para satisfacer las necesidades más completas de los usuarios. Escáner de diagnóstico TPMS/Resset/OBDII 3 en 1 La herramienta de escaneo LAUNCH X431 Creader TPMS 5011 V2 ofrece reparaciones TPMS más rápidas e inteligentes para mecánicos o aficionados al bricolaje.TPMS 5011 V2 TPMS puede realizar diagnósticos TPMS y verificación de salud integral de TPMS, apagar TPMS MIL, leer ID del sensor mediante OBD, activar, leer, aprender y protruir el sensor.TPMS 5011 V2 admite funciones OBDII/EOBD completas y 12 funciones de reinicio.Le permite conocer el estado de los neumáticos, hacerlo usted mismo para analizar y reemplazar sensores TPMS automáticos, y siempre puede ajustar los neumáticos en las mejores condiciones para conducir. TPMS reaprender y leer ID de ECU TPMS LAUNCH Creader TPMS 5011 V2 es una herramienta de reaprendizaje del sistema de control de presión de los neumáticos que admite 3 formas de reaprendizaje: reaprendizaje OBD, reaprendizaje automático y reaprendizaje estacionario.Una vez completada la reinicio del sensor, es necesario ejecutar la función de reaprendizaje para registrar el ID del sensor en la ECU.Además de escribir el ID del sensor en la ECU, puede leer el ID de la ECU del sensor desde TPMS.Cabe mencionar que el TPMS 5011 V2 también admite el diagnóstico del 99% de los modelos del mercado.",
+    "price": 300000,
+    "regularPrice": 300000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "equipos-de-diagnostico",
+        "name": "Equipos de diagnóstico"
+      }
+    ],
+    "image": "/images/products/tpms.jpg"
+  },
+  {
+    "id": 3782,
+    "name": "banco probador de ecus PD60",
+    "slug": "banco-probador-de-ecus-pd60",
+    "shortDescription": "BANCO DE PRUEBAS PARA UNIDADES AUTOMOTRICES 12 Y 24V",
+    "description": "El simulador de encendido por inyección de combustible PD60 es una herramienta completa para reparar y probar computadoras automotrices. No solo puede simular inyectores de gasolina y combustible, sino también bobinas de encendido, por lo que es ideal para reparar y probar ordenadores de automóviles. Es una herramienta muy práctica para reparar y probar computadoras automotrices, lo que mejora considerablemente la eficiencia de los talleres de reparación de automóviles. Características : función de simulación de inyectores de combustible con derv electromagnético de 12 V y simulación de inyectores de gasolina de 12 V. Función de simulación de bobinas de encendido: admite la simulación de bobinas de encendido con activación positiva y la simulación de bobinas de encendido con activación negativa. Función de visualización: módulo de computadora con pantalla en tiempo real incorporado, con función de voltímetro y amperímetro, monitorea en tiempo real el voltaje y la corriente durante el combustible proceso de inyección e encendido, lo que ayuda al reparador a determinar el problema con mayor precisión. Con la toma de adquisición de datos CAN: la PD60 está equipada con una toma analizadora CAN y un cable de conexión, que pueden adquirir, analizar, almacenar y reproducir cómodamente datos del bus CAN (telegramas), lo que es muy cómodo de usar. Funciones completas: con circuito de protección contra sobrecorriente, con toma de diagnóstico integrada, con resistencia de alta potencia (para simular válvulas dosificadoras de combustible), con 120 Resistencia terminal en ohmios. Nota: Este producto no incluye un generador de señal y no puede simular las señales de los sensores. Este instrumento no puede simular las señales de sensores como el cigüeñal, el árbol de levas, la temperatura, la presión, la posición del acelerador, etc. El instrumento requiere una fuente de alimentación externa de 12 a 24 V para funcionar correctamente. El valor de resistencia de la bobina de inyección de combustible Derv es muy pequeño, normalmente de 0,3 a 0,5 (ohmios). El PD60 puede simular inyectores derv electromagnéticos de 12-24 V, pero no inyectores de cristal piezoeléctricos. El instrumento tiene protección interna contra sobrecorriente. Si la potencia de salida está en cortocircuito o la corriente es demasiado grande, el instrumento cortará automáticamente la alimentación. El PD60 es un equipo especial para mecánicos de automóviles, los no profesionales deben usarlo bajo la guía de un mecánico de automóviles.",
+    "price": 78000,
+    "regularPrice": 78000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-diagnostico",
+        "name": "Equipos de diagnóstico"
+      }
+    ],
+    "image": "/images/products/pd60.jpg"
+  },
+  {
+    "id": 3778,
+    "name": "guardant code download",
+    "slug": "guardant-code-download",
+    "shortDescription": "",
+    "description": "",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/guardantcode.jpg"
+  },
+  {
+    "id": 3774,
+    "name": "pcmflash 1.21 download",
+    "slug": "pcmflash-1-21-download",
+    "shortDescription": "",
+    "description": "",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/pcmflash-1.21.jpg"
+  },
+  {
+    "id": 3770,
+    "name": "pcmflash 1.20 download",
+    "slug": "pcmflash-1-20-download",
+    "shortDescription": "",
+    "description": "",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/pcmflash1.20.jpg"
+  },
+  {
+    "id": 3762,
+    "name": "conector de comunicacion obd2",
+    "slug": "conector-de-comunicacion-obd2",
+    "shortDescription": "cable para comunicar con unidades inteligentes desmontadas del vehículo",
+    "description": "este cable te permite verificar si una unidad está en buen estado, ya sea una unidad de motor, módulo de carrocería, módulo de luces, dirección, ABS, airbag, transmisión, etc. puedes conectar un scanner parea verificar si se logra establecer comunicación",
+    "price": 15000,
+    "regularPrice": 15000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-diagnostico",
+        "name": "Equipos de diagnóstico"
+      }
+    ],
+    "image": "/images/products/cablw-7.jpg"
+  },
+  {
+    "id": 3755,
+    "name": "RASTRE CURVE 2 PLUS",
+    "slug": "rastre-curve-2-plus",
+    "shortDescription": "dispositivo de detección de defectos que no puede faltar en tu laboratorio automotriz",
+    "description": "RASTRE CURVE 2 Plus Con el Trazador de Curvas compara rápidamente un circuito donde se sospecha una falla con un circuito que funciona correctamente. El análisis de curvas es una técnica de prueba poderosa para encontrar fallas en los PCB: un voltaje de CA a una frecuencia dada se inyecta en un pin en un punto determinado de una placa de circuito y el analizador inyecta el voltaje y la corriente que da como resultado un forma curva en una pantalla XY. Esta pantalla es una «firma» de la operación del circuito, que se puede comparar con un estándar o un signo «bueno» conocido. Si los patrones no coinciden, la tarjeta de prueba está defectuosa. Por ejemplo, al probar un punto, un condensador mostrará una elipse, una resistencia mostrará una línea recta en ángulo, un diodo muestra la curva exponencial característica, etc. El análisis de firmas es popular en situaciones de pruebas de banco, ya que no requiere conocimiento del funcionamiento del circuito y, por lo tanto, puede usarse para simplificar el análisis y el mantenimiento de los equipos. La curva Rastre representa una ventaja significativa sobre los instrumentos de análisis de firma existentes: cuesta menos que los instrumentos de análisis de firma existentes y el rango de frecuencia de la señal de prueba se inyecta por un tiempo muy corto (1.5ms) para no dañar circuitos sensibles como BGA, etc.",
+    "price": 400000,
+    "regularPrice": 400000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-diagnostico",
+        "name": "Equipos de diagnóstico"
+      }
+    ],
+    "image": "/images/products/curve.jpg"
+  },
+  {
+    "id": 3751,
+    "name": "PCMFLASH 1.21 11 MODULOS",
+    "slug": "pcmflash-1-21-11-modulos",
+    "shortDescription": "11 módulos más actualizados",
+    "description": "Agregamos el dongle Pflasher 1.21, licencias activas: 19,30,48,51,53,57,58,61,69,71,76 En comparación con Pflasher1.2.0, Pflasher1.2.1 ha agregado módulos 51 y 76 sí trabajas con ecus de estos módulos es conveniente tener este dongle ya que dichos módulos están más actualizados respecto a su versión 1.20",
+    "price": 25000,
+    "regularPrice": 25000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/pcmflash6.jpg"
+  },
+  {
+    "id": 3747,
+    "name": "PCMFLASH 1.20 67 MODULOS V. GREEN",
+    "slug": "pcmflash-1-20-67-modulos-v-green",
+    "shortDescription": "VERSION DE 67 MODULOS ACTIVADOS",
+    "description": "—-Module 1 For Ford Focus 3 For Ford Focus 3: 1.6L Sigma Ti-VCT 85/105/125PS (EMS2204) For Ford Focus 3: 1.6L, 2.0L PowerShift TCM (6DCT250) Virtual reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! For Ford Focus 3: 2.0L Duratec GDI Ti-VCT 150/170PS (MED17) For Ford Focus 3 ST: 2.0L Ecoboost GTDI 250PS (MED17) Reading, writing, checksum correction. —–Module 2 For Ford Kuga 2, Ford Explorer 2011+ For Ford Focus 3: 1.0L Ecoboost 2015+ GTDI 100/125PS [FV6A] (MEDG17) For Ford Kuga 2: 1.6L Ecoboost GTDI AWD 150/182PS (MEDG17) For Ford Mondeo 5: 1.5L Ecoboost GTDI AT 150/180PS (MEDG17) For Ford Mondeo 5: 2.0L Ecoboost GTDI 20(PS (MEDG17) For Ford Explorer 2011 -: 3.5L Ecoboost V5 3TDI 350PS (MEDG17) For Ford Kuga 2: 2.5L Duratec Ti-VCT 150/171PS For Ford Mondeo 5: 2.5L Duratec Ti-VCT 150/171PS For Ford Explorer 2011 -: 3.5L Cyclone V6 Ti-VCT 294PS Reading, writing, checksum correction —-Module 3 Diesel engines 2.0L, DCM3.5/DCM6.1/SID206 For Ford Focus 3: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) For Ford Kuga 1: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) Ford Kuga 2: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) For Ford Mondeo 4: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) Virtual reading, writing, checksum correction. For Ford Mondeo 4: 1.8L Lynx, 2.0L DW10C STAGE 4 (SID206) For Ford Mondeo 5: 2.0L DW10F STAGE 5/6 150/180PS (DCM6.1) For Ford Focus 2: 1.8L, 2.0L Duratorq Lynx/DW10C (SID202/SID206) Reading, writing, checksum correction. —-Module 4 For Petrol engines 1.25-1.6L, for Ford Fiesta 2008+, for Ford Mondeo 4 For Ford Fiesta: 1.25L, 1.4L Sigma Ti-VCT (EMS2102) For Ford Fiesta: 1.6L Sigma Ti-VCT (EMS2101) For Ford Mondeo 4: 1.6L Sigma Ti-VCT 110/125PS (EMS2101) Reading, writing, checksum correction. For Ford Fiesta: 1.6L Sigma Ti-VCT USA [AE81] (EMS2205) Writing, checksum correction. —-Module 5 For Petrol engines 1.6L, 2.0L, Ecoboost T-PROT7 For Ford Focus 3: 1.6L Ecoboost GTDI 150/180PS (MED17) For Ford Mondeo 4: 2.0L Ecoboost GTDI 200/240PS (MED17) Reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 6 For Petrol Engines 1.0, 1.6L, Ecoboost T-PROT12 For Ford Focus 3: 1.0L Ecoboost GTDI 100/125PS (MED17) For Ford Kuga 2: 1.6L Ecoboost GTDI FWD 150PS (MED17) For Ford Fiesta: 1.0L Ecoboost GTDI 100/125PS (MED17) Reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 7 For Ford Transit/Tourneo/Ranger, for Land Rover Defender For Ford Transit 2007: 2.2L, 2.4L Diesel 85/100/115/140PS (DCU101-108, DCU201-208) Reading, writing, checksum correction. For Ford Transit 2012: 2.2L Diesel 100/125/140/155PS (SID208) For Land Rover Defender 2012: 2.2L TD4 (SID208)) For Ford Ranger: 3.2L Diesel (SID209) Writing after unlocking in BSL,checksum correction. For Ford Transit 2012: 2.2L Diesel 100/125/140/155PS (SID208/BSL) For Ford Ranger: 3.2L Diesel (SID209/BSL) Reading. For Ford Transit: 2.2L Diesel (SID211) [Unlocked] Writing after unlocking in BSL with Module 53, checksum correction. For Ford Ranger: 2.5L Duratec (EMS2207) Writing, checksum correction. —-Module 8 For Mazda 1st generation (2004-2008/10) For Mazda: 1.6L Z6 AT (for Mazda3 2004+) For Mazda: 1.6L Z6 MT (for Mazda3 2004+) For Mazda: 1.3L ZJ (for Mazda Demio 2003+) For Mazda: 1.8L, 2.0L, 2.3L L8/LF/L3 (for Mazda3/6/CX7 2003+) For Mazda: 1.3L N3 (for Mazda RX8 2003+) For Mazda: 1.3L N3 (for Mazda RX8 -2008) For Mazda: 1.3L N3 (for Mazda RX8 2009-2012) For Mazda: 2.0L LF USA (for Mazda3 -2009/1MB Reading, writing, checksum correction. —-Module 9 For Mazda 2nd generation (2008/10-2012/13) 1.3L, 1.5L ZJ/ZY (For Mazda2 2011+) 1.5L ZY (for Mazda2 US 2011+) 1.6L Z6 (for Mazda3 2010+) 1.8L, 2.0L, 2.5L L8/LF/L5 (for Mazda6 2008+) 2.0L, 2.3L, 2.5L LF/L3/L5 (for Mazda3/5/CX7 2010+) 2.0L LF (for Mazda Biante 2013+/2MB) Reading, writing, checksum correction. —-Module 10 For Mazda 3rd generation (2012+) For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv for Mitsubishi) For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv Denso) For Mazda: 2.5T for SKYACTIV-G PY (for Mazda CX9 SkyActiv for Mitsubishi) For Mazda: 2.2L for SKYACTIV-D SH (for Mazda3/CX5/6 SkyActiv for Denso) For Mazda: 1.6L Z6 (Denso) Reading, writing, checksum correction. —-Module 11 For Mazda 3rd generation (2012+) crypto For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv Denso Crypted) For Mazda: 2.2L SKYACTIV-D SH (for Mazda3/CX5/6 Denso Crypted 2MB) For Mazda: 1.5L, 2.2L SKYACTIV-D S5/SH (for Mazda2/3/CX5/6 for Denso Crypted 3.75MB) For Mazda: 1.6L Z6 (for Denso Crypted) Reading, writing, checksum correction. —-Module 12 For Honda/Acura CAN-bus For Honda:for Honda PGM-FI Generic Read-Only For Honda: for Honda AT/CVT/DCT Generic Read-Only For PGM-FI (for Keihin SH7058/1MB) For PGM-FI (for Keihin SH72543/2MB) For PGM-FI (for Keihin SH72546/3.75MB) For PGM-FI (for Keihin MPC5566/3MB) For PGM-FI (for Keihin TC1782/2.5MB) AT/CVT/DCT (for Keihin 512KB) AT/CVT/DCT for (Keihin 1MB) PGM-FI (for Matsushita SH7058/1MB) PGM-FI (for Matsushita SH72543/2MB) PGM-FI 2013+ (for Matsushita SH72543/2MB) (Test) PGM-FI (for Panasonic TC179X/4MB) AT/CVT/DCT (for Matsushita 512KB) (Test) For Honda: PGM-FI (Continental MPC5554/2MB) —-Module 13 For Honda/Acura K-Line For Honda: Accord 7 2003-2005 (for Matsushita RBA/RBB SH7055/512KB) For Honda: Accord 7 2006-2007/TSX 2004-2005 (for Matsushita RBA/RBB SH7055/512KB) For Acura: TSX 2006 (for Matsushita RBB A56-A62 SH7058/1MB) For Honda: for Accord/CR-V/Element/Legend/Odyssey/Ridgeline (for Keihin SH7058/1MB) For Honda: Element/Inspire (for Keihin SH7055/512KB) For Honda: Legend/Acura TL 2005-2007 (for Keihin RJA SH7058/1MB) For Honda: CR-V 2002/2005-2007 (for Keihin PPA/PNL SH7058/1MB) For Honda: Fit/Jazz/Airwave 2001-2007 (for Keihin OKI ML66Q592/192KB) For Acura: MDX 2003-2007 (for Motorola RDJ SH7055/512KB) For Honda: Accord 7 USA (for Motorola RCA SH7055/512KB SH7058/1024K) Only writing, checksum correction. Stock files database included! —-Module 14 For Petrol engines 1.6L, 2.0L, 2.3L, 2.5L for Ford Mondeo 4 For Ford Mondeo 4: 1.6L Sigma Ti-VCT 110/125PS (EMS2101) For Ford Mondeo 4: 2.0L Duratec HE (ESU312 for Galaxy/S-Max 2006) Ford Mondeo 4: 2.0L, 2.3L Duratec HE (ESU412/415) Reading, writing, checksum correction. For Ford Mondeo 4: 2.5L Duratec 15 225PS (ME9.0) Only writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 15 For Nissan/Infinity K-Line For EFI SH705415N (for Hitachi SH7054/384KB) For EFI SH705507N (for UJ/Hitachi SH7055/512KB) For EFI SH705513N (for Hitachi SH7055/512KB) For EFI SH705520N (for Hitachi SH7055/512KB) For EFI SH705821N (for Hitachi SH7058/1MB) For EFI SH705823N (for Hitachi SH7058/1MB) For EFI SH705524N Almera Classic (for Hitachi SH7055/512KB) For EFI SH705529N Almera Classic (for Hitachi SH7055/512KB) For EFI SH705826N (for Hitachi SH7058/1MB) Reading, writing, checksum correction. —-Module 16 For Subaru Hitachi For Forester, Impreza, Legacy 2000-2002 K-Line (for UJ WA12212920/128KB) For Forester, Impreza, Legacy 2000-2002 K-Line (for UJ WA12212930/256KB) For Forester, Impreza, Legacy 2002-2005 K-Line (for UJ/Hitachi WA12212940/384KB) For Forester, Impreza, Legacy 2002-2005 K-Line (for UJ/Hitachi WA12212970/512KB) Reading, writing. For Forester 2006, Impreza 2006-2007 K-Line (for Hitachi WA12212970WWW/512KB) For Forester 2007-2008, Impreza 2008+, Legacy 2006+ CAN (for Hitachi WA12212970WWW/512KB) For Forester 2009-2011/Legacy 2010-2011 CAN (for Hitachi SH7058/1MB) For Forester 2013+ CAN (for Hitachi SH7059/1.5MB) For Forester 2013+ CAN (for Hitachi SH7254/2MB) Reading, writing, checksum correction. —-Module 17 For Volkswagen K-Line 1.6L CFNA/CFNB/CLRA 7GV K-Line (for Marelli 7GV/832KB) 1.4L CGGB K-Line (for Marelli 7GVE/832KB) 1.6L BFQ K-Line (for Simos 3.3A/512KB) 1.4L BUD/BXW/CGGA/CGGB K-Line (for Marelli 4HV/832KB) 1.6L BSA/BSE/BSF Calibration K-Line (for Simos 7.1/512KB) 1.6L BSA/BSE/BSF Calibration K-Line (for Simos 7PP/1MB) 1.2L BME/BZG/CGPA Calibration K-Line (for Simos 9.1/512KB) Reading, writing, checksum correction. —-Module 18 For Nissan/Infinity CAN-bus For EFI Generic Read-Only (for Hitachi) For EFI SH705519N (for Hitachi SH7055/512KB) For EFI SH705822N, SH705828N (for Hitachi SH7058/1MB) For EFI SH705927N (for Hitachi SH7059/1.5MB) For EFI SH725331N (for Hitachi SH72531/1.25MB) For EFI S7253332N (for Hitachi SH72533/2MB) For Koleos/Latitude 2.5 SH705822N (for Hitachi SH7058/1MB) For Koleos 2 2.5L S7253332N (for Hitachi SH72533/2MB) Reading, writing, checksum correction. —-Module 19 For Kia/Hyundai For Kia/Hyundai: 1.4L, 1.6L (M(G)7.9.8) For Kia/Hyundai: 1.1L-1.6L (M(G)7.9.7) Only writing, checksum correction. For Kia/Hyundai: 1.4L, 1.6L (ME17.9.11/12/13) For Kia/Hyundai: 1.4L, 1.6L (ME(G)17.9.21) For Kia/Hyundai: 1.6L, 3.0L (ME17.9.2/ME(D)(G)17.9.8) Reading, writing, checksum correction. —-Module 20 For Ford Focus 2/Fiesta/Fusion (automatic transfer for VID area) For Ford Focus 2: 1.4L, 1.6L Duratec 85/100/115PS (SIM28/29) For Ford Focus 2: 1.8L, 2.0L Duratec HE 125/145PS (ESU131/411/418) For Ford Focus 2: 1.8L, 2.0L Duratorq Lynx/DW10C (SID202/SID206) For Ford Fiesta/Fusion: 1.4L, 1.6L Duratec 85/100PS (SIM210) For Ford Focus 2 ST: 2.5L Duratec 15 225PS (ME9.0) Reading, writing, checksum correction. For Ford Kuga 1: 2.5L Duratec 15 200PS (ME9.0) Writing, checksum correction. For Sagem 3000 (SH7055/512KB) For Logan, Sandero, Fluence, Megane, Almera EMS3120 (TC1738/2048KB) For Duster, X-Ray EMS3125 (TC1782/2560KB) For Clio 4 1.6T EMS3150 (TC1767/2048KB) For Nissan: Juke 1.2T EMS3155 (TC1782/2560KB) Reading, writing, checksum correction. —-Module 23 For Subaru Denso 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7055/512KB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7055S/512KB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7058/1MB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2007+ CAN-bus (SH7058S/1MB) 2.0L, 2.5L, 3.0L, BRZ Denso 2013+ CAN-bus (SH72531/1.25MB) 1.6L, 2.0L DI Denso 2018+ CAN-bus (1N83M/1.5MB) 2.0L Denso Diesel Euro 4 CAN-bus (SH7058S/1MB) 2.0L Denso Diesel Euro 5 CAN-bus —-Module 21 For Ford USA (automatic transfer for VID area) For Mazda6 3.0L AJ 2003-2005 For Escape, Explorer,for Mazda CX9 -2009 (PCM150F) Explorer, for Mazda CX9 2010-2011/2012 (M799G) For Focus 2008-2011 (for GreenOak/PCM190) For Escape, Mariner, Tribute 2009-2011 (9L8A) Ford F350 6.0L (for BlackOak/PCM122/448KB) Expedition, for Navigator 5.4L (for Bosch ME9.8/2048KB) F-150 5.4L (for Bosch MEG9.8.1/2536KB) Reading, writing, checksum correction For Mustang 2005-2009 (PCM170F) Reading, writing. —-Module 22 For Renault For Valeo V40/V42 (SH7058/1024KB) EMS3110 (TC1766/1504KB) —-Module 24 For Mitsubishi CAN-bus ForMH Generic Read-Only For Colt MT (MH8304F/512KB) For Colt AT (MH8304F/768KB) For Colt RallyArt 1.5T (MH8104F/512KB) For Pajero AT (2007-) (MH8304F/768KB) For Pajero Sport (2010-) (MH8106F/1MB) L200 2.4L MT (2008-) (MH8302F/512KB) For Lancer X 1.5L (2007-), Outlander XL JDM (MH8104F/512KB) For ASX (-2013), Lancer X 1.6/1.8/2.0L, Outlander XL (MH8106F/1MB) For ASX (2013-), Mirage, Outlander 3 (2013-) (MH8115F/1.25MB) For Galant 9 2.4L (2005-) (MH8304F/768KB) For Pajero MT (2007-) (MH8302F/512KB) For Eclipse Cross (2018-) (MH8601/4MB) (MH8115F/1.25MB) For Expander (2018-) (MH8611/2MB) Reading, writing, checksum correction. —-Module 25 For Renault/Nissan 1.5dCi For 1.5L dCi Delphi DCM 1.2 (ST10/512KB) 1.5L dCi for Delphi DCM 3.4 (SH7059/1536KB) 1.5L dCi SID 301/303/304 (MPC562/2MB) 1.5L dCi SID 305/306 (TC1766/1504KB) 1.5L dCi SID 307 (TC1767/2MB) 2.3L dCi SID 309 (TC1767/2MB) For Nissan Juke 1.5L dCi SID 310 (TC1767/2MB) Reading, writing, checksum correction. —-Module 26 For Mitsubishi Diesel CAN-bus For Denso Diesel (SH7058/SH7058S/1MB SH7059/1.5MB SH72543/2MB) Reading, writing, checksum correction. —-Module 27 For Nissan CAN-bus 2nd generation For EFI SH72533 Gen 2 (2014+) Calibration (for Hitachi SH72533/2MB) For Renault Samsung 1.6T (for Hitachi SH72533/2MB) Reading, writing, checksum correction. —-Module 28 For Ford PWM (Ford VCM2 or Scanmatik is required) For Mondeo 3 1.8L, 2.0L, 2.5L, 3.0L Duratec HE (LEVANTA) EEC-V 216K (EEC-V) 3.0L, 4.0L, 4.6L Duratec V6/V8 (PCM150) Reading, writing, checksum correction 1.8L, 2.0L, 2.2L Duratorq TDCi (Visteon) 1.8L, 2.0L, 2.2L Duratorq TDCi (Delphi) —-Module 29 For Kia/Hyundai SIM2K 2.0L, 2.4L (SIM2K-140) 2.0L, 2.5L (SIM2K-D160) 2.0L, 2.4L (SIM2K-141/142/341) 2.0L (SIM2K-C201) 2.0L, 2.0T (SIM2K-240/241/242/245) Reading, writing, checksum correction —-Module 30 For Mitsubishi K-Line K-Line/Bootloader (MH720xF/MH810xF/MH820xF/MH830xF/MH8115) Reading, writing, checksum correction. —-Module 31 ForFord Focus 3 2015, Ford Explorer 2016, Ford Kuga 2 2017 For Ford Fiesta: 1.0L Ecoboost GTDI 100/125PS [C1BA] (MED17) For Ford Focus 3 2015: 1.0L Ecoboost 2015+ GTDI 100/125PS [DA6A] (MED17) For Ford Focus 3 2015: 1.5L Ecoboost 2015+ GTDI 150/180PS [FV6A] (EMS2510/EMS2511) For Ford Kuga 2 2017: 1.5L Ecoboost 2015+ GTDI 150/180PS [FV6A] (EMS2510/EMS2511) For Ford Explorer 2016: 3.5L Cyclone V6 Ti-VCT 249/294PS (2016) For Ford Mondeo 5: 1.5L Ecoboost GTDI MT 150/180PS (MED17) For Ford Mondeo 5: 2.5L Duratec Ti-VCT 150/171PS [GV6A] (EMS24XX) Reading, writing, checksum correction. —-Module 32 For Ford EcoSport/Fiesta 2015+ 2.0L Duratec HE 140PS (IAW 7GFR.HR) Reading, writing, checksum correction. 1.6L Sigma Ti-VCT 85/105/110/122PS (EMS2211) 1.6L Sigma Ti-VCT USA [C1BA] (EMS2214) Writing, checksum correction. —-Module 33 For Kia/Hyundai EDC15/EDC16 2.0L, 2.5L CRDI K-Line (EDC15C7) 2.0L, 2.2L, 2.5L CRDI K-Line Calibration (EDC16C39) 3.0L CRDI K-Line Calibration (EDC16CP34) Reading, writing, checksum correction. 2.0L, 2.2L, 2.5L CRDI (EDC16C39) 3.0L CRDI (EDC16CP34) Writing, checksum correction. —-Module 34 For Toyota/Lexus/Scion/Hino 76F0038/39/40/70/85, MPC565/SH72512/SH72544 CAN-bus 76F0038/39/40/50/70/85, 70F4019 GearBox CAN-bus 76F0038/39/40/50/70/85 HV Control CAN-bus 76F0004/23/38/39/40/70/85, MPC565 K-Line Writing, checksum correction. —-Module 35 For Kia/Hyundai EDC17 1.6L, 2.0L CRDI (EDC17C08/TPROT3) 2.0L, 2.2L CRDI (EDC17CP14/TPROT3) 2.0L, 2.2L CRDI (EDC17CP14/TPROT11) 1.6L, 2.0L CRDI (EDC17C53) 2.2L CRDI (EDC17C57) (after unlocking with Module 53 or 71) Reading, writing, checksum correction. —-Module 36 For Renault K-Line Duster 1.6L 2WD EMS3130 (ST10/512KB) EMS3132 MT (C167/256KB) EMS3134 AT (C167/512KB) For Sagem 3000 (SH7055/512KB) For Sirius 35 (C167/512KB) Reading, writing, checksum correction. —-Module 37 For Kia/Hyundai SIMK 2.0L, 2.7L K-Line (SIMK-41/43) 2.0L, 2.4L CAN (SIMK-43/SIM2K-47) Reading, writing, checksum correction. —-Module 38 For Denso SH705X Bootloader SH7055/SH7058(S)/SH7059 FLASH (512KB/1024KB/1536KB) Reading, writing, checksum correction. For Mazda3 Z6 -2009 SH7055/SH7058 EEPROM (56) For Mitsubishi/Nissan/Subaru Diesel SH7058(S)/SH7059 EEPROM (86) For Subaru Metal-Case SH7055/SH7058 EEPROM (56) For Subaru Plastic-Case SH7058 EEPROM (86) For Subaru Plastic-Case SH7058S EEPROM (56) For Subaru Plastic-Case SH7058S EEPROM (86) For Suzuki Liana/Jimny SH7055 EEPROM (56) For Suzuki SH7055/SH7058 EEPROM (56) For Suzuki SH7058S EEPROM (56) For Volvo SH7058 EEPROM (56) For Opel 1.7L CDTI SH7058/SH7059 EEPROM (86) —Module 39 Land Rover EDC17CP42/MED17 Freelander 2/Evoque/Discovery Sport 2.2L 14 Diesel (EDC17CP42) Ford Mondeo 4 2.2L DW12C STAGE 5 (EDC17CP42) Freelander 2 2.2L 14 Diesel (EDC16CP39) Freelander 2/Evoque 2.0L Ecoboost GTDI (MED17) Jaguar XF (X250) 2.0L Ecoboost GTDI (MED17.9.7) Reading, writing, checksum correction. —-Module 40 For MB Sprinter 906/909 EDC16CP31 For Sprinter (906) 2.2L CDI (EDC16CP31-6) For Sprinter (909) 2.2L CDI (EDC16CP31-8) For Dodge Sprinter (906) 3.0L CDI (EDC16CP31-6) Reading, writing, checksum correction. —-Module 41 For Toyota/Lexus/Scion/Hino 2 Generarion 76F0196/198/199/219 CAN-bus Writing, checksum correction. 76F0196/198/199/219 P5-CAN-bus 76F0199 GearBox P5-CAN-bus Reading, writing, checksum correction. —-Module 42 For Mitsubishi Gearbox CAN-bus CVT Lancer X/ASX 1.8/2.0L, Outlander XL/3 2.0/2.4L (MH8104F/512KB MH8106F/1MB) AT Pajero Sport (2010-), Lancer X 1.5/1.6L (MH8102F/512KB) AT Outlander XL 3.0L (MH8104F/512KB) Reading, writing. TC-SST Getrag 6DCT470 Getrag 6DCT470 Boot (MICRO) Getrag 6DCT470 Boot (EEPROM Reading, writing, checksum correction. CVT ASX/Outlander 3/Eclipse Cross 1.5T/2.0L/2.4L (MH8115F/1.25MB) Reading, writing, checksum correction. —-Module 43 For VAG ME(D)17 UDS 1.4L, 1.8L TSI (MED17.5/MED17.5.2/MED17.5.5) 1.0L, 1.2L, 1.4L TSI (MED17.5.21/MED17.5.25/MED17.1.27) 1.0L, 1.6L MPI (ME17.5.20/ME17.5.24/ME17.5.26) 1.4L TSI, 2.0L, 2.5L, 4.0L TSI, 4.2L FSI (MED17.1/17.1.1/17.1.10/17.1.61/17.1.62) 1.4L TSI, 3.6L FSI (MED17.1.6/MED17.1.21) 5.2L FSI Master/Salve (MED17.1.1) Virtual reading, writing, checksum correction. —-Module 47 For Kia/Hyundai 2.5L CRDI (DCM3.7AP) For Opel/Chevrolet 2.0L, 2.2L CDTI (DCM3.7) For SsangYong 2.0L XDI (DCM3.7AP) For VAG 1.2L TDI (DCM3.7) For Great Wall/Haval 2.0L TD (DCM3.7) Reading, writing, checksum correction. —-Module 48 For Kia/Hyundai Kefico/Denso For Kia/Hyundai 2.5L CRDI (SH72546) For Hyundai Euro 5 (for Denso SH7058S) For Hyundai Euro 6 (for Denso SH72543) Reading, writing, checksum correction. —-Module 49 For Ford SID807EVO/EDC17C10/EDC17C70 For Ford Focus 3: 1.6L DV6C (SID807EVO) For Ford Mondeo 4: 1.6L DV6C (SID807EVO) Writing after unlocking,checksum correction. For Ford 1.6L DV6C (SID807EVO/BSL) Reading. For Ford Focus 3: 1.6L ECOnetic 105PS 2012+ (EDC17C10) For Ford Fiesta: 1.4L, 1.6L DV4/DV6 75/95PS 2010-2011 (EDC17C10) For Ford Fiesta: 1.5L, 1.6L DV5/DV6 70/75/95PS 2012+ (EDC17C10) For Ford Focus 3: 1.5L DV5F 90/105/120PS (EDC17C70) For Ford Fiesta: 1.5L DV5F 90/105/120PS (EDC17C70) Reading, writing, checksum correction. —-Module 50 For SIMOS 8/10/11/12/PCR2.1 2.8L V6 FSI (SIMOS8.1) 3.2L V6 FSI (SIMOS8.2) Reading, writing, checksum correction. 3.0L V6 TFSI (SIMOS8.3) 3.0L V6 TFSI (SIMOS8.4) 3.0L V6 TFSI (SIMOS8.5) Virtual reading, writing, checksum correction. 2.8L V6 FSI (SIMOS8.6) Reading, writing, checksum correction (map area reading/writing after unlocking in BSL!) SIMOS8.6 (EEPROM/UNLOCK/BSL) Reading, writing (EEPROM reading/writing, ECU unlocking) 1.2L TSI (SIMOS10) 1.2L MPI (SIMOS11) Virtual reading, reading, writing, checksum correction. Reading, writing, checksum correction (map area reading/writing after unlocking in BSL!) 1.6L TDI (PCR2.1) PCR2.1 (EEPROM/UNLOCK/BSL) —-Module 51 DQ200MQB/G2 (0CW) DQ250MQB (0D9) Reading, writing, checksum correction VL381/DL382 (0AW/0CK) DL501/G2 (0B5) DQ200 (0AM) DQ250E/F (02E) VL300/V30 (01J/0AN) Writing, checksum correction DQ200/MQB/G2 Boot (EEPROM) DQ250E/F/MQB Boot (EEPROM) DL501/G2 Boot (EEPROM) VL381 Boot (EEPROM) DL382 Boot (EEPROM) For Honda UDCT Boot (Continental TC1782/EEPROM) Reading, writing DQ200/MQB/G2 Boot (MICRO) DQ250E/F/MQB Boot (MICRO) VL381 Boot (MICRO) DL501/G2 Boot (MICRO) DQ500 (OBH/0BT) VL300/V30 BSL (FLASH) VL300/V30 BSL (EEPROM) DQ250C (02E) DL382 Boot (MICRO) Honda UDCT Boot (Continental TC1782/MICRO) Reading, writing, checksum correction. —-Module 52 Renault/Nissan UDS 1.2T EMS3155 UDS (TC1782/2.5MB) 1.5L dCi SID309 UDS (TC1767/2MB) 1.5L, 2.3L dCi SID310 UDS (TC1791/3MB) 1.6L dCi EDC17C84 UDS (TC1782/2.5MB) 1.8T, 2.0T Hitachi UDS (RH850/4MB) Reading, writing, checksum correction. 1.6L dCi EDC17C84 UDS (Injectors) Reading, writing. —-Module 53 For Kia/Hyundai CPGDSH/CPEGD 1.6L (CPGDSH2.24.1/CPEGD2.20.1/UDS Reading, writing, checksum correction. 1.4T, 1.6L (CPEGD2.20.3/CPEGD2.20.4/UDS) – requires direct connection to the ECU 1.0L, 1.2L (CPEGP2.10.1/CPGPSH2.14.1/UDS) Reading, writing, checksum correction, unlocking —-Module 54 For Ford/Getrag 6DCT450 PowerShift TCM (6DCT450) PowerShift 6DCT450 Boot (MICRO) PowerShift 6DCT450 Boot (EEPROM) PowerShift 6DCT451 TCM GGDS PowerShift 6DCT451 [XPS6 Gen3] Boot (MICRO) PowerShift 6DCT451 [XPS6 Gen3] Boot (EEPROM) Reading, writing. —-Module 55 For Renault DC4 EDC DC4 Gearbox (TC1766/1506KB) Reading, writing, checksum correction. —-Module 56 For Mitsubishi Fuso Canter For Fuso Canter (EDC7C4-6/EDC16C31) For Fuso Canter Euro 5 CAN-bus (EDC17CP15) For Fuso Canter Euro 5 CAN-bus (EDC17CP52) Reading, writing, checksum correction. —-Module 57 VAG MED17/EDC17 CAN TP2.0/K-Line EDC17U01/U05/CP04/CP14 K-Line ME17/MED17/EDC17 CAN TP2.0 EDC17CP20 VW Crafter 2.5L TDI Virtual reading, writing, checksum correction. —-Module 58 For Honda PGM-FI (for Bosch EDC17CP06/EDC17CP16/2MB) Writing, checksum correction. PGM-FI (for Bosch EDC17CP50/4MB) [Unlocked] PGM-FI (for Bosch EDC17C58/4MB) [Unlocked] PGM-FI (for Bosch EDC17C72/2.5MB) [Unlocked] PGM-FI (for Bosch MED17.9.3/4MB) [Unlocked] PGM-FI (for Bosch ME17.9.55/1.5MB) [Unlocked] Writing after unlocking with Module 53 or 71, checksum correction. —-Module 59 For Nissan EFI ME7.9.20 Calibration (for Bosch ST10F275 EXT/512KB) Writing, checksum correction. —-Module 60 For JLR Denso Freelander 2 (L359) 3.2L V6 233PS (Denso) For Jaguar XF/XJ/XK (X250/X350/X351/X150) 3.0L V6, 3.5L V8, 4.2L V8/SC (Denso) For Range Rover/Sport/Discovery 3 4.0L V6, 4.4L V8, 4.2L V8/SC (Denso) For Range Rover (L320/L322/L319), Jaguar (X150/X250/X351) 5.0L V8/SC (Denso) Reading, writing, checksum correction. —-Module 61 For Mercedes-Benz MED17/EDC17 MED17.7.1/17.7.2/17.7.3/17.7.3.1/17.7.5 Virtual reading, writing, checksum correction. MED17.7.1/17.7.2/17.7.3/17.7.3.1 Writing, checksum correction. EDC17CP01/CP10 (only ECUs with extrenal FLASH memory) EDC17CP46/CP57/CP60/C66 Reading, writing, checksum correction. M156/M272/M273 (ME9.7) Calibration reading, writing, checksum correction. —-Module 62 For Jeep EDC17 2.8L CRDI (EDC17CP27) [Test] 3.0L CRDI (EDC17C49/C79) reading may require direct connection to the ECU Reading, writing, checksum correction. —-Module 63 For Bosch MEDC17 Bootloader (direct connection to the ECU connector, Scanmatik 2 Pro, a connection cable and a power supply are required) MEDC17 (TC1762/1766/1792/1796) FLASH MEDC17 (TC1724/1728/1767/1782/1784/1797) FLASH MEDC17 (TC1791/1793) FLASH Reading, writing, checksum correction. MEDC17 (TC1762/1766/1792/1796) EEPROM MEDC17 (TC1724/1728/1767/1782/1784/1797) EEPROM MEDC17 (TC1791/1793) EEPROM Reading, writing MEDC17 BSL PASSWORD Reading.",
+    "price": 25000,
+    "regularPrice": 25000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/pcmflash4.jpg"
+  },
+  {
+    "id": 3743,
+    "name": "DONGLE PCMFLASH 1.20",
+    "slug": "dongle-pcmflash-1-20",
+    "shortDescription": "DONGLE PCMFLASH CON 67 MODULOS ACTIVADOS",
+    "description": "—-Module 1 For Ford Focus 3 For Ford Focus 3: 1.6L Sigma Ti-VCT 85/105/125PS (EMS2204) For Ford Focus 3: 1.6L, 2.0L PowerShift TCM (6DCT250) Virtual reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! For Ford Focus 3: 2.0L Duratec GDI Ti-VCT 150/170PS (MED17) For Ford Focus 3 ST: 2.0L Ecoboost GTDI 250PS (MED17) Reading, writing, checksum correction. —–Module 2 For Ford Kuga 2, Ford Explorer 2011+ For Ford Focus 3: 1.0L Ecoboost 2015+ GTDI 100/125PS [FV6A] (MEDG17) For Ford Kuga 2: 1.6L Ecoboost GTDI AWD 150/182PS (MEDG17) For Ford Mondeo 5: 1.5L Ecoboost GTDI AT 150/180PS (MEDG17) For Ford Mondeo 5: 2.0L Ecoboost GTDI 20(PS (MEDG17) For Ford Explorer 2011 -: 3.5L Ecoboost V5 3TDI 350PS (MEDG17) For Ford Kuga 2: 2.5L Duratec Ti-VCT 150/171PS For Ford Mondeo 5: 2.5L Duratec Ti-VCT 150/171PS For Ford Explorer 2011 -: 3.5L Cyclone V6 Ti-VCT 294PS Reading, writing, checksum correction —-Module 3 Diesel engines 2.0L, DCM3.5/DCM6.1/SID206 For Ford Focus 3: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) For Ford Kuga 1: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) Ford Kuga 2: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) For Ford Mondeo 4: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) Virtual reading, writing, checksum correction. For Ford Mondeo 4: 1.8L Lynx, 2.0L DW10C STAGE 4 (SID206) For Ford Mondeo 5: 2.0L DW10F STAGE 5/6 150/180PS (DCM6.1) For Ford Focus 2: 1.8L, 2.0L Duratorq Lynx/DW10C (SID202/SID206) Reading, writing, checksum correction. —-Module 4 For Petrol engines 1.25-1.6L, for Ford Fiesta 2008+, for Ford Mondeo 4 For Ford Fiesta: 1.25L, 1.4L Sigma Ti-VCT (EMS2102) For Ford Fiesta: 1.6L Sigma Ti-VCT (EMS2101) For Ford Mondeo 4: 1.6L Sigma Ti-VCT 110/125PS (EMS2101) Reading, writing, checksum correction. For Ford Fiesta: 1.6L Sigma Ti-VCT USA [AE81] (EMS2205) Writing, checksum correction. —-Module 5 For Petrol engines 1.6L, 2.0L, Ecoboost T-PROT7 For Ford Focus 3: 1.6L Ecoboost GTDI 150/180PS (MED17) For Ford Mondeo 4: 2.0L Ecoboost GTDI 200/240PS (MED17) Reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 6 For Petrol Engines 1.0, 1.6L, Ecoboost T-PROT12 For Ford Focus 3: 1.0L Ecoboost GTDI 100/125PS (MED17) For Ford Kuga 2: 1.6L Ecoboost GTDI FWD 150PS (MED17) For Ford Fiesta: 1.0L Ecoboost GTDI 100/125PS (MED17) Reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 7 For Ford Transit/Tourneo/Ranger, for Land Rover Defender For Ford Transit 2007: 2.2L, 2.4L Diesel 85/100/115/140PS (DCU101-108, DCU201-208) Reading, writing, checksum correction. For Ford Transit 2012: 2.2L Diesel 100/125/140/155PS (SID208) For Land Rover Defender 2012: 2.2L TD4 (SID208)) For Ford Ranger: 3.2L Diesel (SID209) Writing after unlocking in BSL,checksum correction. For Ford Transit 2012: 2.2L Diesel 100/125/140/155PS (SID208/BSL) For Ford Ranger: 3.2L Diesel (SID209/BSL) Reading. For Ford Transit: 2.2L Diesel (SID211) [Unlocked] Writing after unlocking in BSL with Module 53, checksum correction. For Ford Ranger: 2.5L Duratec (EMS2207) Writing, checksum correction. —-Module 8 For Mazda 1st generation (2004-2008/10) For Mazda: 1.6L Z6 AT (for Mazda3 2004+) For Mazda: 1.6L Z6 MT (for Mazda3 2004+) For Mazda: 1.3L ZJ (for Mazda Demio 2003+) For Mazda: 1.8L, 2.0L, 2.3L L8/LF/L3 (for Mazda3/6/CX7 2003+) For Mazda: 1.3L N3 (for Mazda RX8 2003+) For Mazda: 1.3L N3 (for Mazda RX8 -2008) For Mazda: 1.3L N3 (for Mazda RX8 2009-2012) For Mazda: 2.0L LF USA (for Mazda3 -2009/1MB Reading, writing, checksum correction. —-Module 9 For Mazda 2nd generation (2008/10-2012/13) 1.3L, 1.5L ZJ/ZY (For Mazda2 2011+) 1.5L ZY (for Mazda2 US 2011+) 1.6L Z6 (for Mazda3 2010+) 1.8L, 2.0L, 2.5L L8/LF/L5 (for Mazda6 2008+) 2.0L, 2.3L, 2.5L LF/L3/L5 (for Mazda3/5/CX7 2010+) 2.0L LF (for Mazda Biante 2013+/2MB) Reading, writing, checksum correction. —-Module 10 For Mazda 3rd generation (2012+) For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv for Mitsubishi) For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv Denso) For Mazda: 2.5T for SKYACTIV-G PY (for Mazda CX9 SkyActiv for Mitsubishi) For Mazda: 2.2L for SKYACTIV-D SH (for Mazda3/CX5/6 SkyActiv for Denso) For Mazda: 1.6L Z6 (Denso) Reading, writing, checksum correction. —-Module 11 For Mazda 3rd generation (2012+) crypto For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv Denso Crypted) For Mazda: 2.2L SKYACTIV-D SH (for Mazda3/CX5/6 Denso Crypted 2MB) For Mazda: 1.5L, 2.2L SKYACTIV-D S5/SH (for Mazda2/3/CX5/6 for Denso Crypted 3.75MB) For Mazda: 1.6L Z6 (for Denso Crypted) Reading, writing, checksum correction. —-Module 12 For Honda/Acura CAN-bus For Honda:for Honda PGM-FI Generic Read-Only For Honda: for Honda AT/CVT/DCT Generic Read-Only For PGM-FI (for Keihin SH7058/1MB) For PGM-FI (for Keihin SH72543/2MB) For PGM-FI (for Keihin SH72546/3.75MB) For PGM-FI (for Keihin MPC5566/3MB) For PGM-FI (for Keihin TC1782/2.5MB) AT/CVT/DCT (for Keihin 512KB) AT/CVT/DCT for (Keihin 1MB) PGM-FI (for Matsushita SH7058/1MB) PGM-FI (for Matsushita SH72543/2MB) PGM-FI 2013+ (for Matsushita SH72543/2MB) (Test) PGM-FI (for Panasonic TC179X/4MB) AT/CVT/DCT (for Matsushita 512KB) (Test) For Honda: PGM-FI (Continental MPC5554/2MB) —-Module 13 For Honda/Acura K-Line For Honda: Accord 7 2003-2005 (for Matsushita RBA/RBB SH7055/512KB) For Honda: Accord 7 2006-2007/TSX 2004-2005 (for Matsushita RBA/RBB SH7055/512KB) For Acura: TSX 2006 (for Matsushita RBB A56-A62 SH7058/1MB) For Honda: for Accord/CR-V/Element/Legend/Odyssey/Ridgeline (for Keihin SH7058/1MB) For Honda: Element/Inspire (for Keihin SH7055/512KB) For Honda: Legend/Acura TL 2005-2007 (for Keihin RJA SH7058/1MB) For Honda: CR-V 2002/2005-2007 (for Keihin PPA/PNL SH7058/1MB) For Honda: Fit/Jazz/Airwave 2001-2007 (for Keihin OKI ML66Q592/192KB) For Acura: MDX 2003-2007 (for Motorola RDJ SH7055/512KB) For Honda: Accord 7 USA (for Motorola RCA SH7055/512KB SH7058/1024K) Only writing, checksum correction. Stock files database included! —-Module 14 For Petrol engines 1.6L, 2.0L, 2.3L, 2.5L for Ford Mondeo 4 For Ford Mondeo 4: 1.6L Sigma Ti-VCT 110/125PS (EMS2101) For Ford Mondeo 4: 2.0L Duratec HE (ESU312 for Galaxy/S-Max 2006) Ford Mondeo 4: 2.0L, 2.3L Duratec HE (ESU412/415) Reading, writing, checksum correction. For Ford Mondeo 4: 2.5L Duratec 15 225PS (ME9.0) Only writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 15 For Nissan/Infinity K-Line For EFI SH705415N (for Hitachi SH7054/384KB) For EFI SH705507N (for UJ/Hitachi SH7055/512KB) For EFI SH705513N (for Hitachi SH7055/512KB) For EFI SH705520N (for Hitachi SH7055/512KB) For EFI SH705821N (for Hitachi SH7058/1MB) For EFI SH705823N (for Hitachi SH7058/1MB) For EFI SH705524N Almera Classic (for Hitachi SH7055/512KB) For EFI SH705529N Almera Classic (for Hitachi SH7055/512KB) For EFI SH705826N (for Hitachi SH7058/1MB) Reading, writing, checksum correction. —-Module 16 For Subaru Hitachi For Forester, Impreza, Legacy 2000-2002 K-Line (for UJ WA12212920/128KB) For Forester, Impreza, Legacy 2000-2002 K-Line (for UJ WA12212930/256KB) For Forester, Impreza, Legacy 2002-2005 K-Line (for UJ/Hitachi WA12212940/384KB) For Forester, Impreza, Legacy 2002-2005 K-Line (for UJ/Hitachi WA12212970/512KB) Reading, writing. For Forester 2006, Impreza 2006-2007 K-Line (for Hitachi WA12212970WWW/512KB) For Forester 2007-2008, Impreza 2008+, Legacy 2006+ CAN (for Hitachi WA12212970WWW/512KB) For Forester 2009-2011/Legacy 2010-2011 CAN (for Hitachi SH7058/1MB) For Forester 2013+ CAN (for Hitachi SH7059/1.5MB) For Forester 2013+ CAN (for Hitachi SH7254/2MB) Reading, writing, checksum correction. —-Module 17 For Volkswagen K-Line 1.6L CFNA/CFNB/CLRA 7GV K-Line (for Marelli 7GV/832KB) 1.4L CGGB K-Line (for Marelli 7GVE/832KB) 1.6L BFQ K-Line (for Simos 3.3A/512KB) 1.4L BUD/BXW/CGGA/CGGB K-Line (for Marelli 4HV/832KB) 1.6L BSA/BSE/BSF Calibration K-Line (for Simos 7.1/512KB) 1.6L BSA/BSE/BSF Calibration K-Line (for Simos 7PP/1MB) 1.2L BME/BZG/CGPA Calibration K-Line (for Simos 9.1/512KB) Reading, writing, checksum correction. —-Module 18 For Nissan/Infinity CAN-bus For EFI Generic Read-Only (for Hitachi) For EFI SH705519N (for Hitachi SH7055/512KB) For EFI SH705822N, SH705828N (for Hitachi SH7058/1MB) For EFI SH705927N (for Hitachi SH7059/1.5MB) For EFI SH725331N (for Hitachi SH72531/1.25MB) For EFI S7253332N (for Hitachi SH72533/2MB) For Koleos/Latitude 2.5 SH705822N (for Hitachi SH7058/1MB) For Koleos 2 2.5L S7253332N (for Hitachi SH72533/2MB) Reading, writing, checksum correction. —-Module 19 For Kia/Hyundai For Kia/Hyundai: 1.4L, 1.6L (M(G)7.9.8) For Kia/Hyundai: 1.1L-1.6L (M(G)7.9.7) Only writing, checksum correction. For Kia/Hyundai: 1.4L, 1.6L (ME17.9.11/12/13) For Kia/Hyundai: 1.4L, 1.6L (ME(G)17.9.21) For Kia/Hyundai: 1.6L, 3.0L (ME17.9.2/ME(D)(G)17.9.8) Reading, writing, checksum correction. —-Module 20 For Ford Focus 2/Fiesta/Fusion (automatic transfer for VID area) For Ford Focus 2: 1.4L, 1.6L Duratec 85/100/115PS (SIM28/29) For Ford Focus 2: 1.8L, 2.0L Duratec HE 125/145PS (ESU131/411/418) For Ford Focus 2: 1.8L, 2.0L Duratorq Lynx/DW10C (SID202/SID206) For Ford Fiesta/Fusion: 1.4L, 1.6L Duratec 85/100PS (SIM210) For Ford Focus 2 ST: 2.5L Duratec 15 225PS (ME9.0) Reading, writing, checksum correction. For Ford Kuga 1: 2.5L Duratec 15 200PS (ME9.0) Writing, checksum correction. For Sagem 3000 (SH7055/512KB) For Logan, Sandero, Fluence, Megane, Almera EMS3120 (TC1738/2048KB) For Duster, X-Ray EMS3125 (TC1782/2560KB) For Clio 4 1.6T EMS3150 (TC1767/2048KB) For Nissan: Juke 1.2T EMS3155 (TC1782/2560KB) Reading, writing, checksum correction. —-Module 23 For Subaru Denso 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7055/512KB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7055S/512KB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7058/1MB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2007+ CAN-bus (SH7058S/1MB) 2.0L, 2.5L, 3.0L, BRZ Denso 2013+ CAN-bus (SH72531/1.25MB) 1.6L, 2.0L DI Denso 2018+ CAN-bus (1N83M/1.5MB) 2.0L Denso Diesel Euro 4 CAN-bus (SH7058S/1MB) 2.0L Denso Diesel Euro 5 CAN-bus —-Module 21 For Ford USA (automatic transfer for VID area) For Mazda6 3.0L AJ 2003-2005 For Escape, Explorer,for Mazda CX9 -2009 (PCM150F) Explorer, for Mazda CX9 2010-2011/2012 (M799G) For Focus 2008-2011 (for GreenOak/PCM190) For Escape, Mariner, Tribute 2009-2011 (9L8A) Ford F350 6.0L (for BlackOak/PCM122/448KB) Expedition, for Navigator 5.4L (for Bosch ME9.8/2048KB) F-150 5.4L (for Bosch MEG9.8.1/2536KB) Reading, writing, checksum correction For Mustang 2005-2009 (PCM170F) Reading, writing. —-Module 22 For Renault For Valeo V40/V42 (SH7058/1024KB) EMS3110 (TC1766/1504KB) —-Module 24 For Mitsubishi CAN-bus ForMH Generic Read-Only For Colt MT (MH8304F/512KB) For Colt AT (MH8304F/768KB) For Colt RallyArt 1.5T (MH8104F/512KB) For Pajero AT (2007-) (MH8304F/768KB) For Pajero Sport (2010-) (MH8106F/1MB) L200 2.4L MT (2008-) (MH8302F/512KB) For Lancer X 1.5L (2007-), Outlander XL JDM (MH8104F/512KB) For ASX (-2013), Lancer X 1.6/1.8/2.0L, Outlander XL (MH8106F/1MB) For ASX (2013-), Mirage, Outlander 3 (2013-) (MH8115F/1.25MB) For Galant 9 2.4L (2005-) (MH8304F/768KB) For Pajero MT (2007-) (MH8302F/512KB) For Eclipse Cross (2018-) (MH8601/4MB) (MH8115F/1.25MB) For Expander (2018-) (MH8611/2MB) Reading, writing, checksum correction. —-Module 25 For Renault/Nissan 1.5dCi For 1.5L dCi Delphi DCM 1.2 (ST10/512KB) 1.5L dCi for Delphi DCM 3.4 (SH7059/1536KB) 1.5L dCi SID 301/303/304 (MPC562/2MB) 1.5L dCi SID 305/306 (TC1766/1504KB) 1.5L dCi SID 307 (TC1767/2MB) 2.3L dCi SID 309 (TC1767/2MB) For Nissan Juke 1.5L dCi SID 310 (TC1767/2MB) Reading, writing, checksum correction. —-Module 26 For Mitsubishi Diesel CAN-bus For Denso Diesel (SH7058/SH7058S/1MB SH7059/1.5MB SH72543/2MB) Reading, writing, checksum correction. —-Module 27 For Nissan CAN-bus 2nd generation For EFI SH72533 Gen 2 (2014+) Calibration (for Hitachi SH72533/2MB) For Renault Samsung 1.6T (for Hitachi SH72533/2MB) Reading, writing, checksum correction. —-Module 28 For Ford PWM (Ford VCM2 or Scanmatik is required) For Mondeo 3 1.8L, 2.0L, 2.5L, 3.0L Duratec HE (LEVANTA) EEC-V 216K (EEC-V) 3.0L, 4.0L, 4.6L Duratec V6/V8 (PCM150) Reading, writing, checksum correction 1.8L, 2.0L, 2.2L Duratorq TDCi (Visteon) 1.8L, 2.0L, 2.2L Duratorq TDCi (Delphi) —-Module 29 For Kia/Hyundai SIM2K 2.0L, 2.4L (SIM2K-140) 2.0L, 2.5L (SIM2K-D160) 2.0L, 2.4L (SIM2K-141/142/341) 2.0L (SIM2K-C201) 2.0L, 2.0T (SIM2K-240/241/242/245) Reading, writing, checksum correction —-Module 30 For Mitsubishi K-Line K-Line/Bootloader (MH720xF/MH810xF/MH820xF/MH830xF/MH8115) Reading, writing, checksum correction. —-Module 31 ForFord Focus 3 2015, Ford Explorer 2016, Ford Kuga 2 2017 For Ford Fiesta: 1.0L Ecoboost GTDI 100/125PS [C1BA] (MED17) For Ford Focus 3 2015: 1.0L Ecoboost 2015+ GTDI 100/125PS [DA6A] (MED17) For Ford Focus 3 2015: 1.5L Ecoboost 2015+ GTDI 150/180PS [FV6A] (EMS2510/EMS2511) For Ford Kuga 2 2017: 1.5L Ecoboost 2015+ GTDI 150/180PS [FV6A] (EMS2510/EMS2511) For Ford Explorer 2016: 3.5L Cyclone V6 Ti-VCT 249/294PS (2016) For Ford Mondeo 5: 1.5L Ecoboost GTDI MT 150/180PS (MED17) For Ford Mondeo 5: 2.5L Duratec Ti-VCT 150/171PS [GV6A] (EMS24XX) Reading, writing, checksum correction. —-Module 32 For Ford EcoSport/Fiesta 2015+ 2.0L Duratec HE 140PS (IAW 7GFR.HR) Reading, writing, checksum correction. 1.6L Sigma Ti-VCT 85/105/110/122PS (EMS2211) 1.6L Sigma Ti-VCT USA [C1BA] (EMS2214) Writing, checksum correction. —-Module 33 For Kia/Hyundai EDC15/EDC16 2.0L, 2.5L CRDI K-Line (EDC15C7) 2.0L, 2.2L, 2.5L CRDI K-Line Calibration (EDC16C39) 3.0L CRDI K-Line Calibration (EDC16CP34) Reading, writing, checksum correction. 2.0L, 2.2L, 2.5L CRDI (EDC16C39) 3.0L CRDI (EDC16CP34) Writing, checksum correction. —-Module 34 For Toyota/Lexus/Scion/Hino 76F0038/39/40/70/85, MPC565/SH72512/SH72544 CAN-bus 76F0038/39/40/50/70/85, 70F4019 GearBox CAN-bus 76F0038/39/40/50/70/85 HV Control CAN-bus 76F0004/23/38/39/40/70/85, MPC565 K-Line Writing, checksum correction. —-Module 35 For Kia/Hyundai EDC17 1.6L, 2.0L CRDI (EDC17C08/TPROT3) 2.0L, 2.2L CRDI (EDC17CP14/TPROT3) 2.0L, 2.2L CRDI (EDC17CP14/TPROT11) 1.6L, 2.0L CRDI (EDC17C53) 2.2L CRDI (EDC17C57) (after unlocking with Module 53 or 71) Reading, writing, checksum correction. —-Module 36 For Renault K-Line Duster 1.6L 2WD EMS3130 (ST10/512KB) EMS3132 MT (C167/256KB) EMS3134 AT (C167/512KB) For Sagem 3000 (SH7055/512KB) For Sirius 35 (C167/512KB) Reading, writing, checksum correction. —-Module 37 For Kia/Hyundai SIMK 2.0L, 2.7L K-Line (SIMK-41/43) 2.0L, 2.4L CAN (SIMK-43/SIM2K-47) Reading, writing, checksum correction. —-Module 38 For Denso SH705X Bootloader SH7055/SH7058(S)/SH7059 FLASH (512KB/1024KB/1536KB) Reading, writing, checksum correction. For Mazda3 Z6 -2009 SH7055/SH7058 EEPROM (56) For Mitsubishi/Nissan/Subaru Diesel SH7058(S)/SH7059 EEPROM (86) For Subaru Metal-Case SH7055/SH7058 EEPROM (56) For Subaru Plastic-Case SH7058 EEPROM (86) For Subaru Plastic-Case SH7058S EEPROM (56) For Subaru Plastic-Case SH7058S EEPROM (86) For Suzuki Liana/Jimny SH7055 EEPROM (56) For Suzuki SH7055/SH7058 EEPROM (56) For Suzuki SH7058S EEPROM (56) For Volvo SH7058 EEPROM (56) For Opel 1.7L CDTI SH7058/SH7059 EEPROM (86) —Module 39 Land Rover EDC17CP42/MED17 Freelander 2/Evoque/Discovery Sport 2.2L 14 Diesel (EDC17CP42) Ford Mondeo 4 2.2L DW12C STAGE 5 (EDC17CP42) Freelander 2 2.2L 14 Diesel (EDC16CP39) Freelander 2/Evoque 2.0L Ecoboost GTDI (MED17) Jaguar XF (X250) 2.0L Ecoboost GTDI (MED17.9.7) Reading, writing, checksum correction. —-Module 40 For MB Sprinter 906/909 EDC16CP31 For Sprinter (906) 2.2L CDI (EDC16CP31-6) For Sprinter (909) 2.2L CDI (EDC16CP31-8) For Dodge Sprinter (906) 3.0L CDI (EDC16CP31-6) Reading, writing, checksum correction. —-Module 41 For Toyota/Lexus/Scion/Hino 2 Generarion 76F0196/198/199/219 CAN-bus Writing, checksum correction. 76F0196/198/199/219 P5-CAN-bus 76F0199 GearBox P5-CAN-bus Reading, writing, checksum correction. —-Module 42 For Mitsubishi Gearbox CAN-bus CVT Lancer X/ASX 1.8/2.0L, Outlander XL/3 2.0/2.4L (MH8104F/512KB MH8106F/1MB) AT Pajero Sport (2010-), Lancer X 1.5/1.6L (MH8102F/512KB) AT Outlander XL 3.0L (MH8104F/512KB) Reading, writing. TC-SST Getrag 6DCT470 Getrag 6DCT470 Boot (MICRO) Getrag 6DCT470 Boot (EEPROM Reading, writing, checksum correction. CVT ASX/Outlander 3/Eclipse Cross 1.5T/2.0L/2.4L (MH8115F/1.25MB) Reading, writing, checksum correction. —-Module 43 For VAG ME(D)17 UDS 1.4L, 1.8L TSI (MED17.5/MED17.5.2/MED17.5.5) 1.0L, 1.2L, 1.4L TSI (MED17.5.21/MED17.5.25/MED17.1.27) 1.0L, 1.6L MPI (ME17.5.20/ME17.5.24/ME17.5.26) 1.4L TSI, 2.0L, 2.5L, 4.0L TSI, 4.2L FSI (MED17.1/17.1.1/17.1.10/17.1.61/17.1.62) 1.4L TSI, 3.6L FSI (MED17.1.6/MED17.1.21) 5.2L FSI Master/Salve (MED17.1.1) Virtual reading, writing, checksum correction. —-Module 47 For Kia/Hyundai 2.5L CRDI (DCM3.7AP) For Opel/Chevrolet 2.0L, 2.2L CDTI (DCM3.7) For SsangYong 2.0L XDI (DCM3.7AP) For VAG 1.2L TDI (DCM3.7) For Great Wall/Haval 2.0L TD (DCM3.7) Reading, writing, checksum correction. —-Module 48 For Kia/Hyundai Kefico/Denso For Kia/Hyundai 2.5L CRDI (SH72546) For Hyundai Euro 5 (for Denso SH7058S) For Hyundai Euro 6 (for Denso SH72543) Reading, writing, checksum correction. —-Module 49 For Ford SID807EVO/EDC17C10/EDC17C70 For Ford Focus 3: 1.6L DV6C (SID807EVO) For Ford Mondeo 4: 1.6L DV6C (SID807EVO) Writing after unlocking,checksum correction. For Ford 1.6L DV6C (SID807EVO/BSL) Reading. For Ford Focus 3: 1.6L ECOnetic 105PS 2012+ (EDC17C10) For Ford Fiesta: 1.4L, 1.6L DV4/DV6 75/95PS 2010-2011 (EDC17C10) For Ford Fiesta: 1.5L, 1.6L DV5/DV6 70/75/95PS 2012+ (EDC17C10) For Ford Focus 3: 1.5L DV5F 90/105/120PS (EDC17C70) For Ford Fiesta: 1.5L DV5F 90/105/120PS (EDC17C70) Reading, writing, checksum correction. —-Module 50 For SIMOS 8/10/11/12/PCR2.1 2.8L V6 FSI (SIMOS8.1) 3.2L V6 FSI (SIMOS8.2) Reading, writing, checksum correction. 3.0L V6 TFSI (SIMOS8.3) 3.0L V6 TFSI (SIMOS8.4) 3.0L V6 TFSI (SIMOS8.5) Virtual reading, writing, checksum correction. 2.8L V6 FSI (SIMOS8.6) Reading, writing, checksum correction (map area reading/writing after unlocking in BSL!) SIMOS8.6 (EEPROM/UNLOCK/BSL) Reading, writing (EEPROM reading/writing, ECU unlocking) 1.2L TSI (SIMOS10) 1.2L MPI (SIMOS11) Virtual reading, reading, writing, checksum correction. Reading, writing, checksum correction (map area reading/writing after unlocking in BSL!) 1.6L TDI (PCR2.1) PCR2.1 (EEPROM/UNLOCK/BSL) —-Module 51 DQ200MQB/G2 (0CW) DQ250MQB (0D9) Reading, writing, checksum correction VL381/DL382 (0AW/0CK) DL501/G2 (0B5) DQ200 (0AM) DQ250E/F (02E) VL300/V30 (01J/0AN) Writing, checksum correction DQ200/MQB/G2 Boot (EEPROM) DQ250E/F/MQB Boot (EEPROM) DL501/G2 Boot (EEPROM) VL381 Boot (EEPROM) DL382 Boot (EEPROM) For Honda UDCT Boot (Continental TC1782/EEPROM) Reading, writing DQ200/MQB/G2 Boot (MICRO) DQ250E/F/MQB Boot (MICRO) VL381 Boot (MICRO) DL501/G2 Boot (MICRO) DQ500 (OBH/0BT) VL300/V30 BSL (FLASH) VL300/V30 BSL (EEPROM) DQ250C (02E) DL382 Boot (MICRO) Honda UDCT Boot (Continental TC1782/MICRO) Reading, writing, checksum correction. —-Module 52 Renault/Nissan UDS 1.2T EMS3155 UDS (TC1782/2.5MB) 1.5L dCi SID309 UDS (TC1767/2MB) 1.5L, 2.3L dCi SID310 UDS (TC1791/3MB) 1.6L dCi EDC17C84 UDS (TC1782/2.5MB) 1.8T, 2.0T Hitachi UDS (RH850/4MB) Reading, writing, checksum correction. 1.6L dCi EDC17C84 UDS (Injectors) Reading, writing. —-Module 53 For Kia/Hyundai CPGDSH/CPEGD 1.6L (CPGDSH2.24.1/CPEGD2.20.1/UDS Reading, writing, checksum correction. 1.4T, 1.6L (CPEGD2.20.3/CPEGD2.20.4/UDS) – requires direct connection to the ECU 1.0L, 1.2L (CPEGP2.10.1/CPGPSH2.14.1/UDS) Reading, writing, checksum correction, unlocking —-Module 54 For Ford/Getrag 6DCT450 PowerShift TCM (6DCT450) PowerShift 6DCT450 Boot (MICRO) PowerShift 6DCT450 Boot (EEPROM) PowerShift 6DCT451 TCM GGDS PowerShift 6DCT451 [XPS6 Gen3] Boot (MICRO) PowerShift 6DCT451 [XPS6 Gen3] Boot (EEPROM) Reading, writing. —-Module 55 For Renault DC4 EDC DC4 Gearbox (TC1766/1506KB) Reading, writing, checksum correction. —-Module 56 For Mitsubishi Fuso Canter For Fuso Canter (EDC7C4-6/EDC16C31) For Fuso Canter Euro 5 CAN-bus (EDC17CP15) For Fuso Canter Euro 5 CAN-bus (EDC17CP52) Reading, writing, checksum correction. —-Module 57 VAG MED17/EDC17 CAN TP2.0/K-Line EDC17U01/U05/CP04/CP14 K-Line ME17/MED17/EDC17 CAN TP2.0 EDC17CP20 VW Crafter 2.5L TDI Virtual reading, writing, checksum correction. —-Module 58 For Honda PGM-FI (for Bosch EDC17CP06/EDC17CP16/2MB) Writing, checksum correction. PGM-FI (for Bosch EDC17CP50/4MB) [Unlocked] PGM-FI (for Bosch EDC17C58/4MB) [Unlocked] PGM-FI (for Bosch EDC17C72/2.5MB) [Unlocked] PGM-FI (for Bosch MED17.9.3/4MB) [Unlocked] PGM-FI (for Bosch ME17.9.55/1.5MB) [Unlocked] Writing after unlocking with Module 53 or 71, checksum correction. —-Module 59 For Nissan EFI ME7.9.20 Calibration (for Bosch ST10F275 EXT/512KB) Writing, checksum correction. —-Module 60 For JLR Denso Freelander 2 (L359) 3.2L V6 233PS (Denso) For Jaguar XF/XJ/XK (X250/X350/X351/X150) 3.0L V6, 3.5L V8, 4.2L V8/SC (Denso) For Range Rover/Sport/Discovery 3 4.0L V6, 4.4L V8, 4.2L V8/SC (Denso) For Range Rover (L320/L322/L319), Jaguar (X150/X250/X351) 5.0L V8/SC (Denso) Reading, writing, checksum correction. —-Module 61 For Mercedes-Benz MED17/EDC17 MED17.7.1/17.7.2/17.7.3/17.7.3.1/17.7.5 Virtual reading, writing, checksum correction. MED17.7.1/17.7.2/17.7.3/17.7.3.1 Writing, checksum correction. EDC17CP01/CP10 (only ECUs with extrenal FLASH memory) EDC17CP46/CP57/CP60/C66 Reading, writing, checksum correction. M156/M272/M273 (ME9.7) Calibration reading, writing, checksum correction. —-Module 62 For Jeep EDC17 2.8L CRDI (EDC17CP27) [Test] 3.0L CRDI (EDC17C49/C79) reading may require direct connection to the ECU Reading, writing, checksum correction. —-Module 63 For Bosch MEDC17 Bootloader (direct connection to the ECU connector, Scanmatik 2 Pro, a connection cable and a power supply are required) MEDC17 (TC1762/1766/1792/1796) FLASH MEDC17 (TC1724/1728/1767/1782/1784/1797) FLASH MEDC17 (TC1791/1793) FLASH Reading, writing, checksum correction. MEDC17 (TC1762/1766/1792/1796) EEPROM MEDC17 (TC1724/1728/1767/1782/1784/1797) EEPROM MEDC17 (TC1791/1793) EEPROM Reading, writing MEDC17 BSL PASSWORD Reading.",
+    "price": 25000,
+    "regularPrice": 25000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/pcmflash.jpg"
+  },
+  {
+    "id": 3738,
+    "name": "PCMFLASH DONGLE 67 EN 1 V.KTM",
+    "slug": "pcmflash-dongle-67-en-1-v-ktm",
+    "shortDescription": "dongle version 1.20 para desbloquear los 67 modulos de pcmflash",
+    "description": "VERSION COMPLETA DE 67 MODULOS —-Module 1 For Ford Focus 3 For Ford Focus 3: 1.6L Sigma Ti-VCT 85/105/125PS (EMS2204) For Ford Focus 3: 1.6L, 2.0L PowerShift TCM (6DCT250) Virtual reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! For Ford Focus 3: 2.0L Duratec GDI Ti-VCT 150/170PS (MED17) For Ford Focus 3 ST: 2.0L Ecoboost GTDI 250PS (MED17) Reading, writing, checksum correction. —–Module 2 For Ford Kuga 2, Ford Explorer 2011+ For Ford Focus 3: 1.0L Ecoboost 2015+ GTDI 100/125PS [FV6A] (MEDG17) For Ford Kuga 2: 1.6L Ecoboost GTDI AWD 150/182PS (MEDG17) For Ford Mondeo 5: 1.5L Ecoboost GTDI AT 150/180PS (MEDG17) For Ford Mondeo 5: 2.0L Ecoboost GTDI 20(PS (MEDG17) For Ford Explorer 2011 -: 3.5L Ecoboost V5 3TDI 350PS (MEDG17) For Ford Kuga 2: 2.5L Duratec Ti-VCT 150/171PS For Ford Mondeo 5: 2.5L Duratec Ti-VCT 150/171PS For Ford Explorer 2011 -: 3.5L Cyclone V6 Ti-VCT 294PS Reading, writing, checksum correction —-Module 3 Diesel engines 2.0L, DCM3.5/DCM6.1/SID206 For Ford Focus 3: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) For Ford Kuga 1: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) Ford Kuga 2: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) For Ford Mondeo 4: 2.0L DW10C STAGE 5 140/163PS (DCM3.5) Virtual reading, writing, checksum correction. For Ford Mondeo 4: 1.8L Lynx, 2.0L DW10C STAGE 4 (SID206) For Ford Mondeo 5: 2.0L DW10F STAGE 5/6 150/180PS (DCM6.1) For Ford Focus 2: 1.8L, 2.0L Duratorq Lynx/DW10C (SID202/SID206) Reading, writing, checksum correction. —-Module 4 For Petrol engines 1.25-1.6L, for Ford Fiesta 2008+, for Ford Mondeo 4 For Ford Fiesta: 1.25L, 1.4L Sigma Ti-VCT (EMS2102) For Ford Fiesta: 1.6L Sigma Ti-VCT (EMS2101) For Ford Mondeo 4: 1.6L Sigma Ti-VCT 110/125PS (EMS2101) Reading, writing, checksum correction. For Ford Fiesta: 1.6L Sigma Ti-VCT USA [AE81] (EMS2205) Writing, checksum correction. —-Module 5 For Petrol engines 1.6L, 2.0L, Ecoboost T-PROT7 For Ford Focus 3: 1.6L Ecoboost GTDI 150/180PS (MED17) For Ford Mondeo 4: 2.0L Ecoboost GTDI 200/240PS (MED17) Reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 6 For Petrol Engines 1.0, 1.6L, Ecoboost T-PROT12 For Ford Focus 3: 1.0L Ecoboost GTDI 100/125PS (MED17) For Ford Kuga 2: 1.6L Ecoboost GTDI FWD 150PS (MED17) For Ford Fiesta: 1.0L Ecoboost GTDI 100/125PS (MED17) Reading, writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 7 For Ford Transit/Tourneo/Ranger, for Land Rover Defender For Ford Transit 2007: 2.2L, 2.4L Diesel 85/100/115/140PS (DCU101-108, DCU201-208) Reading, writing, checksum correction. For Ford Transit 2012: 2.2L Diesel 100/125/140/155PS (SID208) For Land Rover Defender 2012: 2.2L TD4 (SID208)) For Ford Ranger: 3.2L Diesel (SID209) Writing after unlocking in BSL,checksum correction. For Ford Transit 2012: 2.2L Diesel 100/125/140/155PS (SID208/BSL) For Ford Ranger: 3.2L Diesel (SID209/BSL) Reading. For Ford Transit: 2.2L Diesel (SID211) [Unlocked] Writing after unlocking in BSL with Module 53, checksum correction. For Ford Ranger: 2.5L Duratec (EMS2207) Writing, checksum correction. —-Module 8 For Mazda 1st generation (2004-2008/10) For Mazda: 1.6L Z6 AT (for Mazda3 2004+) For Mazda: 1.6L Z6 MT (for Mazda3 2004+) For Mazda: 1.3L ZJ (for Mazda Demio 2003+) For Mazda: 1.8L, 2.0L, 2.3L L8/LF/L3 (for Mazda3/6/CX7 2003+) For Mazda: 1.3L N3 (for Mazda RX8 2003+) For Mazda: 1.3L N3 (for Mazda RX8 -2008) For Mazda: 1.3L N3 (for Mazda RX8 2009-2012) For Mazda: 2.0L LF USA (for Mazda3 -2009/1MB Reading, writing, checksum correction. —-Module 9 For Mazda 2nd generation (2008/10-2012/13) 1.3L, 1.5L ZJ/ZY (For Mazda2 2011+) 1.5L ZY (for Mazda2 US 2011+) 1.6L Z6 (for Mazda3 2010+) 1.8L, 2.0L, 2.5L L8/LF/L5 (for Mazda6 2008+) 2.0L, 2.3L, 2.5L LF/L3/L5 (for Mazda3/5/CX7 2010+) 2.0L LF (for Mazda Biante 2013+/2MB) Reading, writing, checksum correction. —-Module 10 For Mazda 3rd generation (2012+) For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv for Mitsubishi) For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv Denso) For Mazda: 2.5T for SKYACTIV-G PY (for Mazda CX9 SkyActiv for Mitsubishi) For Mazda: 2.2L for SKYACTIV-D SH (for Mazda3/CX5/6 SkyActiv for Denso) For Mazda: 1.6L Z6 (Denso) Reading, writing, checksum correction. —-Module 11 For Mazda 3rd generation (2012+) crypto For Mazda: 1.5L, 2.0L, 2.5L SKYACTIV-G P5/PE/PY (for Mazda3/CX5/6 SkyActiv Denso Crypted) For Mazda: 2.2L SKYACTIV-D SH (for Mazda3/CX5/6 Denso Crypted 2MB) For Mazda: 1.5L, 2.2L SKYACTIV-D S5/SH (for Mazda2/3/CX5/6 for Denso Crypted 3.75MB) For Mazda: 1.6L Z6 (for Denso Crypted) Reading, writing, checksum correction. —-Module 12 For Honda/Acura CAN-bus For Honda:for Honda PGM-FI Generic Read-Only For Honda: for Honda AT/CVT/DCT Generic Read-Only For PGM-FI (for Keihin SH7058/1MB) For PGM-FI (for Keihin SH72543/2MB) For PGM-FI (for Keihin SH72546/3.75MB) For PGM-FI (for Keihin MPC5566/3MB) For PGM-FI (for Keihin TC1782/2.5MB) AT/CVT/DCT (for Keihin 512KB) AT/CVT/DCT for (Keihin 1MB) PGM-FI (for Matsushita SH7058/1MB) PGM-FI (for Matsushita SH72543/2MB) PGM-FI 2013+ (for Matsushita SH72543/2MB) (Test) PGM-FI (for Panasonic TC179X/4MB) AT/CVT/DCT (for Matsushita 512KB) (Test) For Honda: PGM-FI (Continental MPC5554/2MB) —-Module 13 For Honda/Acura K-Line For Honda: Accord 7 2003-2005 (for Matsushita RBA/RBB SH7055/512KB) For Honda: Accord 7 2006-2007/TSX 2004-2005 (for Matsushita RBA/RBB SH7055/512KB) For Acura: TSX 2006 (for Matsushita RBB A56-A62 SH7058/1MB) For Honda: for Accord/CR-V/Element/Legend/Odyssey/Ridgeline (for Keihin SH7058/1MB) For Honda: Element/Inspire (for Keihin SH7055/512KB) For Honda: Legend/Acura TL 2005-2007 (for Keihin RJA SH7058/1MB) For Honda: CR-V 2002/2005-2007 (for Keihin PPA/PNL SH7058/1MB) For Honda: Fit/Jazz/Airwave 2001-2007 (for Keihin OKI ML66Q592/192KB) For Acura: MDX 2003-2007 (for Motorola RDJ SH7055/512KB) For Honda: Accord 7 USA (for Motorola RCA SH7055/512KB SH7058/1024K) Only writing, checksum correction. Stock files database included! —-Module 14 For Petrol engines 1.6L, 2.0L, 2.3L, 2.5L for Ford Mondeo 4 For Ford Mondeo 4: 1.6L Sigma Ti-VCT 110/125PS (EMS2101) For Ford Mondeo 4: 2.0L Duratec HE (ESU312 for Galaxy/S-Max 2006) Ford Mondeo 4: 2.0L, 2.3L Duratec HE (ESU412/415) Reading, writing, checksum correction. For Ford Mondeo 4: 2.5L Duratec 15 225PS (ME9.0) Only writing, checksum correction. VBF writing and VBF to BIN conversion is supported! —-Module 15 For Nissan/Infinity K-Line For EFI SH705415N (for Hitachi SH7054/384KB) For EFI SH705507N (for UJ/Hitachi SH7055/512KB) For EFI SH705513N (for Hitachi SH7055/512KB) For EFI SH705520N (for Hitachi SH7055/512KB) For EFI SH705821N (for Hitachi SH7058/1MB) For EFI SH705823N (for Hitachi SH7058/1MB) For EFI SH705524N Almera Classic (for Hitachi SH7055/512KB) For EFI SH705529N Almera Classic (for Hitachi SH7055/512KB) For EFI SH705826N (for Hitachi SH7058/1MB) Reading, writing, checksum correction. —-Module 16 For Subaru Hitachi For Forester, Impreza, Legacy 2000-2002 K-Line (for UJ WA12212920/128KB) For Forester, Impreza, Legacy 2000-2002 K-Line (for UJ WA12212930/256KB) For Forester, Impreza, Legacy 2002-2005 K-Line (for UJ/Hitachi WA12212940/384KB) For Forester, Impreza, Legacy 2002-2005 K-Line (for UJ/Hitachi WA12212970/512KB) Reading, writing. For Forester 2006, Impreza 2006-2007 K-Line (for Hitachi WA12212970WWW/512KB) For Forester 2007-2008, Impreza 2008+, Legacy 2006+ CAN (for Hitachi WA12212970WWW/512KB) For Forester 2009-2011/Legacy 2010-2011 CAN (for Hitachi SH7058/1MB) For Forester 2013+ CAN (for Hitachi SH7059/1.5MB) For Forester 2013+ CAN (for Hitachi SH7254/2MB) Reading, writing, checksum correction. —-Module 17 For Volkswagen K-Line 1.6L CFNA/CFNB/CLRA 7GV K-Line (for Marelli 7GV/832KB) 1.4L CGGB K-Line (for Marelli 7GVE/832KB) 1.6L BFQ K-Line (for Simos 3.3A/512KB) 1.4L BUD/BXW/CGGA/CGGB K-Line (for Marelli 4HV/832KB) 1.6L BSA/BSE/BSF Calibration K-Line (for Simos 7.1/512KB) 1.6L BSA/BSE/BSF Calibration K-Line (for Simos 7PP/1MB) 1.2L BME/BZG/CGPA Calibration K-Line (for Simos 9.1/512KB) Reading, writing, checksum correction. —-Module 18 For Nissan/Infinity CAN-bus For EFI Generic Read-Only (for Hitachi) For EFI SH705519N (for Hitachi SH7055/512KB) For EFI SH705822N, SH705828N (for Hitachi SH7058/1MB) For EFI SH705927N (for Hitachi SH7059/1.5MB) For EFI SH725331N (for Hitachi SH72531/1.25MB) For EFI S7253332N (for Hitachi SH72533/2MB) For Koleos/Latitude 2.5 SH705822N (for Hitachi SH7058/1MB) For Koleos 2 2.5L S7253332N (for Hitachi SH72533/2MB) Reading, writing, checksum correction. —-Module 19 For Kia/Hyundai For Kia/Hyundai: 1.4L, 1.6L (M(G)7.9.8) For Kia/Hyundai: 1.1L-1.6L (M(G)7.9.7) Only writing, checksum correction. For Kia/Hyundai: 1.4L, 1.6L (ME17.9.11/12/13) For Kia/Hyundai: 1.4L, 1.6L (ME(G)17.9.21) For Kia/Hyundai: 1.6L, 3.0L (ME17.9.2/ME(D)(G)17.9.8) Reading, writing, checksum correction. —-Module 20 For Ford Focus 2/Fiesta/Fusion (automatic transfer for VID area) For Ford Focus 2: 1.4L, 1.6L Duratec 85/100/115PS (SIM28/29) For Ford Focus 2: 1.8L, 2.0L Duratec HE 125/145PS (ESU131/411/418) For Ford Focus 2: 1.8L, 2.0L Duratorq Lynx/DW10C (SID202/SID206) For Ford Fiesta/Fusion: 1.4L, 1.6L Duratec 85/100PS (SIM210) For Ford Focus 2 ST: 2.5L Duratec 15 225PS (ME9.0) Reading, writing, checksum correction. For Ford Kuga 1: 2.5L Duratec 15 200PS (ME9.0) Writing, checksum correction. For Sagem 3000 (SH7055/512KB) For Logan, Sandero, Fluence, Megane, Almera EMS3120 (TC1738/2048KB) For Duster, X-Ray EMS3125 (TC1782/2560KB) For Clio 4 1.6T EMS3150 (TC1767/2048KB) For Nissan: Juke 1.2T EMS3155 (TC1782/2560KB) Reading, writing, checksum correction. —-Module 23 For Subaru Denso 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7055/512KB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7055S/512KB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2003+ K-Line (SH7058/1MB) 2.5L, 3.0L, 2.0T, 2.5T Denso 2007+ CAN-bus (SH7058S/1MB) 2.0L, 2.5L, 3.0L, BRZ Denso 2013+ CAN-bus (SH72531/1.25MB) 1.6L, 2.0L DI Denso 2018+ CAN-bus (1N83M/1.5MB) 2.0L Denso Diesel Euro 4 CAN-bus (SH7058S/1MB) 2.0L Denso Diesel Euro 5 CAN-bus —-Module 21 For Ford USA (automatic transfer for VID area) For Mazda6 3.0L AJ 2003-2005 For Escape, Explorer,for Mazda CX9 -2009 (PCM150F) Explorer, for Mazda CX9 2010-2011/2012 (M799G) For Focus 2008-2011 (for GreenOak/PCM190) For Escape, Mariner, Tribute 2009-2011 (9L8A) Ford F350 6.0L (for BlackOak/PCM122/448KB) Expedition, for Navigator 5.4L (for Bosch ME9.8/2048KB) F-150 5.4L (for Bosch MEG9.8.1/2536KB) Reading, writing, checksum correction For Mustang 2005-2009 (PCM170F) Reading, writing. —-Module 22 For Renault For Valeo V40/V42 (SH7058/1024KB) EMS3110 (TC1766/1504KB) —-Module 24 For Mitsubishi CAN-bus ForMH Generic Read-Only For Colt MT (MH8304F/512KB) For Colt AT (MH8304F/768KB) For Colt RallyArt 1.5T (MH8104F/512KB) For Pajero AT (2007-) (MH8304F/768KB) For Pajero Sport (2010-) (MH8106F/1MB) L200 2.4L MT (2008-) (MH8302F/512KB) For Lancer X 1.5L (2007-), Outlander XL JDM (MH8104F/512KB) For ASX (-2013), Lancer X 1.6/1.8/2.0L, Outlander XL (MH8106F/1MB) For ASX (2013-), Mirage, Outlander 3 (2013-) (MH8115F/1.25MB) For Galant 9 2.4L (2005-) (MH8304F/768KB) For Pajero MT (2007-) (MH8302F/512KB) For Eclipse Cross (2018-) (MH8601/4MB) (MH8115F/1.25MB) For Expander (2018-) (MH8611/2MB) Reading, writing, checksum correction. —-Module 25 For Renault/Nissan 1.5dCi For 1.5L dCi Delphi DCM 1.2 (ST10/512KB) 1.5L dCi for Delphi DCM 3.4 (SH7059/1536KB) 1.5L dCi SID 301/303/304 (MPC562/2MB) 1.5L dCi SID 305/306 (TC1766/1504KB) 1.5L dCi SID 307 (TC1767/2MB) 2.3L dCi SID 309 (TC1767/2MB) For Nissan Juke 1.5L dCi SID 310 (TC1767/2MB) Reading, writing, checksum correction. —-Module 26 For Mitsubishi Diesel CAN-bus For Denso Diesel (SH7058/SH7058S/1MB SH7059/1.5MB SH72543/2MB) Reading, writing, checksum correction. —-Module 27 For Nissan CAN-bus 2nd generation For EFI SH72533 Gen 2 (2014+) Calibration (for Hitachi SH72533/2MB) For Renault Samsung 1.6T (for Hitachi SH72533/2MB) Reading, writing, checksum correction. —-Module 28 For Ford PWM (Ford VCM2 or Scanmatik is required) For Mondeo 3 1.8L, 2.0L, 2.5L, 3.0L Duratec HE (LEVANTA) EEC-V 216K (EEC-V) 3.0L, 4.0L, 4.6L Duratec V6/V8 (PCM150) Reading, writing, checksum correction 1.8L, 2.0L, 2.2L Duratorq TDCi (Visteon) 1.8L, 2.0L, 2.2L Duratorq TDCi (Delphi) —-Module 29 For Kia/Hyundai SIM2K 2.0L, 2.4L (SIM2K-140) 2.0L, 2.5L (SIM2K-D160) 2.0L, 2.4L (SIM2K-141/142/341) 2.0L (SIM2K-C201) 2.0L, 2.0T (SIM2K-240/241/242/245) Reading, writing, checksum correction —-Module 30 For Mitsubishi K-Line K-Line/Bootloader (MH720xF/MH810xF/MH820xF/MH830xF/MH8115) Reading, writing, checksum correction. —-Module 31 ForFord Focus 3 2015, Ford Explorer 2016, Ford Kuga 2 2017 For Ford Fiesta: 1.0L Ecoboost GTDI 100/125PS [C1BA] (MED17) For Ford Focus 3 2015: 1.0L Ecoboost 2015+ GTDI 100/125PS [DA6A] (MED17) For Ford Focus 3 2015: 1.5L Ecoboost 2015+ GTDI 150/180PS [FV6A] (EMS2510/EMS2511) For Ford Kuga 2 2017: 1.5L Ecoboost 2015+ GTDI 150/180PS [FV6A] (EMS2510/EMS2511) For Ford Explorer 2016: 3.5L Cyclone V6 Ti-VCT 249/294PS (2016) For Ford Mondeo 5: 1.5L Ecoboost GTDI MT 150/180PS (MED17) For Ford Mondeo 5: 2.5L Duratec Ti-VCT 150/171PS [GV6A] (EMS24XX) Reading, writing, checksum correction. —-Module 32 For Ford EcoSport/Fiesta 2015+ 2.0L Duratec HE 140PS (IAW 7GFR.HR) Reading, writing, checksum correction. 1.6L Sigma Ti-VCT 85/105/110/122PS (EMS2211) 1.6L Sigma Ti-VCT USA [C1BA] (EMS2214) Writing, checksum correction. —-Module 33 For Kia/Hyundai EDC15/EDC16 2.0L, 2.5L CRDI K-Line (EDC15C7) 2.0L, 2.2L, 2.5L CRDI K-Line Calibration (EDC16C39) 3.0L CRDI K-Line Calibration (EDC16CP34) Reading, writing, checksum correction. 2.0L, 2.2L, 2.5L CRDI (EDC16C39) 3.0L CRDI (EDC16CP34) Writing, checksum correction. —-Module 34 For Toyota/Lexus/Scion/Hino 76F0038/39/40/70/85, MPC565/SH72512/SH72544 CAN-bus 76F0038/39/40/50/70/85, 70F4019 GearBox CAN-bus 76F0038/39/40/50/70/85 HV Control CAN-bus 76F0004/23/38/39/40/70/85, MPC565 K-Line Writing, checksum correction. —-Module 35 For Kia/Hyundai EDC17 1.6L, 2.0L CRDI (EDC17C08/TPROT3) 2.0L, 2.2L CRDI (EDC17CP14/TPROT3) 2.0L, 2.2L CRDI (EDC17CP14/TPROT11) 1.6L, 2.0L CRDI (EDC17C53) 2.2L CRDI (EDC17C57) (after unlocking with Module 53 or 71) Reading, writing, checksum correction. —-Module 36 For Renault K-Line Duster 1.6L 2WD EMS3130 (ST10/512KB) EMS3132 MT (C167/256KB) EMS3134 AT (C167/512KB) For Sagem 3000 (SH7055/512KB) For Sirius 35 (C167/512KB) Reading, writing, checksum correction. —-Module 37 For Kia/Hyundai SIMK 2.0L, 2.7L K-Line (SIMK-41/43) 2.0L, 2.4L CAN (SIMK-43/SIM2K-47) Reading, writing, checksum correction. —-Module 38 For Denso SH705X Bootloader SH7055/SH7058(S)/SH7059 FLASH (512KB/1024KB/1536KB) Reading, writing, checksum correction. For Mazda3 Z6 -2009 SH7055/SH7058 EEPROM (56) For Mitsubishi/Nissan/Subaru Diesel SH7058(S)/SH7059 EEPROM (86) For Subaru Metal-Case SH7055/SH7058 EEPROM (56) For Subaru Plastic-Case SH7058 EEPROM (86) For Subaru Plastic-Case SH7058S EEPROM (56) For Subaru Plastic-Case SH7058S EEPROM (86) For Suzuki Liana/Jimny SH7055 EEPROM (56) For Suzuki SH7055/SH7058 EEPROM (56) For Suzuki SH7058S EEPROM (56) For Volvo SH7058 EEPROM (56) For Opel 1.7L CDTI SH7058/SH7059 EEPROM (86) —Module 39 Land Rover EDC17CP42/MED17 Freelander 2/Evoque/Discovery Sport 2.2L 14 Diesel (EDC17CP42) Ford Mondeo 4 2.2L DW12C STAGE 5 (EDC17CP42) Freelander 2 2.2L 14 Diesel (EDC16CP39) Freelander 2/Evoque 2.0L Ecoboost GTDI (MED17) Jaguar XF (X250) 2.0L Ecoboost GTDI (MED17.9.7) Reading, writing, checksum correction. —-Module 40 For MB Sprinter 906/909 EDC16CP31 For Sprinter (906) 2.2L CDI (EDC16CP31-6) For Sprinter (909) 2.2L CDI (EDC16CP31-8) For Dodge Sprinter (906) 3.0L CDI (EDC16CP31-6) Reading, writing, checksum correction. —-Module 41 For Toyota/Lexus/Scion/Hino 2 Generarion 76F0196/198/199/219 CAN-bus Writing, checksum correction. 76F0196/198/199/219 P5-CAN-bus 76F0199 GearBox P5-CAN-bus Reading, writing, checksum correction. —-Module 42 For Mitsubishi Gearbox CAN-bus CVT Lancer X/ASX 1.8/2.0L, Outlander XL/3 2.0/2.4L (MH8104F/512KB MH8106F/1MB) AT Pajero Sport (2010-), Lancer X 1.5/1.6L (MH8102F/512KB) AT Outlander XL 3.0L (MH8104F/512KB) Reading, writing. TC-SST Getrag 6DCT470 Getrag 6DCT470 Boot (MICRO) Getrag 6DCT470 Boot (EEPROM Reading, writing, checksum correction. CVT ASX/Outlander 3/Eclipse Cross 1.5T/2.0L/2.4L (MH8115F/1.25MB) Reading, writing, checksum correction. —-Module 43 For VAG ME(D)17 UDS 1.4L, 1.8L TSI (MED17.5/MED17.5.2/MED17.5.5) 1.0L, 1.2L, 1.4L TSI (MED17.5.21/MED17.5.25/MED17.1.27) 1.0L, 1.6L MPI (ME17.5.20/ME17.5.24/ME17.5.26) 1.4L TSI, 2.0L, 2.5L, 4.0L TSI, 4.2L FSI (MED17.1/17.1.1/17.1.10/17.1.61/17.1.62) 1.4L TSI, 3.6L FSI (MED17.1.6/MED17.1.21) 5.2L FSI Master/Salve (MED17.1.1) Virtual reading, writing, checksum correction. —-Module 47 For Kia/Hyundai 2.5L CRDI (DCM3.7AP) For Opel/Chevrolet 2.0L, 2.2L CDTI (DCM3.7) For SsangYong 2.0L XDI (DCM3.7AP) For VAG 1.2L TDI (DCM3.7) For Great Wall/Haval 2.0L TD (DCM3.7) Reading, writing, checksum correction. —-Module 48 For Kia/Hyundai Kefico/Denso For Kia/Hyundai 2.5L CRDI (SH72546) For Hyundai Euro 5 (for Denso SH7058S) For Hyundai Euro 6 (for Denso SH72543) Reading, writing, checksum correction. —-Module 49 For Ford SID807EVO/EDC17C10/EDC17C70 For Ford Focus 3: 1.6L DV6C (SID807EVO) For Ford Mondeo 4: 1.6L DV6C (SID807EVO) Writing after unlocking,checksum correction. For Ford 1.6L DV6C (SID807EVO/BSL) Reading. For Ford Focus 3: 1.6L ECOnetic 105PS 2012+ (EDC17C10) For Ford Fiesta: 1.4L, 1.6L DV4/DV6 75/95PS 2010-2011 (EDC17C10) For Ford Fiesta: 1.5L, 1.6L DV5/DV6 70/75/95PS 2012+ (EDC17C10) For Ford Focus 3: 1.5L DV5F 90/105/120PS (EDC17C70) For Ford Fiesta: 1.5L DV5F 90/105/120PS (EDC17C70) Reading, writing, checksum correction. —-Module 50 For SIMOS 8/10/11/12/PCR2.1 2.8L V6 FSI (SIMOS8.1) 3.2L V6 FSI (SIMOS8.2) Reading, writing, checksum correction. 3.0L V6 TFSI (SIMOS8.3) 3.0L V6 TFSI (SIMOS8.4) 3.0L V6 TFSI (SIMOS8.5) Virtual reading, writing, checksum correction. 2.8L V6 FSI (SIMOS8.6) Reading, writing, checksum correction (map area reading/writing after unlocking in BSL!) SIMOS8.6 (EEPROM/UNLOCK/BSL) Reading, writing (EEPROM reading/writing, ECU unlocking) 1.2L TSI (SIMOS10) 1.2L MPI (SIMOS11) Virtual reading, reading, writing, checksum correction. Reading, writing, checksum correction (map area reading/writing after unlocking in BSL!) 1.6L TDI (PCR2.1) PCR2.1 (EEPROM/UNLOCK/BSL) —-Module 51 DQ200MQB/G2 (0CW) DQ250MQB (0D9) Reading, writing, checksum correction VL381/DL382 (0AW/0CK) DL501/G2 (0B5) DQ200 (0AM) DQ250E/F (02E) VL300/V30 (01J/0AN) Writing, checksum correction DQ200/MQB/G2 Boot (EEPROM) DQ250E/F/MQB Boot (EEPROM) DL501/G2 Boot (EEPROM) VL381 Boot (EEPROM) DL382 Boot (EEPROM) For Honda UDCT Boot (Continental TC1782/EEPROM) Reading, writing DQ200/MQB/G2 Boot (MICRO) DQ250E/F/MQB Boot (MICRO) VL381 Boot (MICRO) DL501/G2 Boot (MICRO) DQ500 (OBH/0BT) VL300/V30 BSL (FLASH) VL300/V30 BSL (EEPROM) DQ250C (02E) DL382 Boot (MICRO) Honda UDCT Boot (Continental TC1782/MICRO) Reading, writing, checksum correction. —-Module 52 Renault/Nissan UDS 1.2T EMS3155 UDS (TC1782/2.5MB) 1.5L dCi SID309 UDS (TC1767/2MB) 1.5L, 2.3L dCi SID310 UDS (TC1791/3MB) 1.6L dCi EDC17C84 UDS (TC1782/2.5MB) 1.8T, 2.0T Hitachi UDS (RH850/4MB) Reading, writing, checksum correction. 1.6L dCi EDC17C84 UDS (Injectors) Reading, writing. —-Module 53 For Kia/Hyundai CPGDSH/CPEGD 1.6L (CPGDSH2.24.1/CPEGD2.20.1/UDS Reading, writing, checksum correction. 1.4T, 1.6L (CPEGD2.20.3/CPEGD2.20.4/UDS) – requires direct connection to the ECU 1.0L, 1.2L (CPEGP2.10.1/CPGPSH2.14.1/UDS) Reading, writing, checksum correction, unlocking —-Module 54 For Ford/Getrag 6DCT450 PowerShift TCM (6DCT450) PowerShift 6DCT450 Boot (MICRO) PowerShift 6DCT450 Boot (EEPROM) PowerShift 6DCT451 TCM GGDS PowerShift 6DCT451 [XPS6 Gen3] Boot (MICRO) PowerShift 6DCT451 [XPS6 Gen3] Boot (EEPROM) Reading, writing. —-Module 55 For Renault DC4 EDC DC4 Gearbox (TC1766/1506KB) Reading, writing, checksum correction. —-Module 56 For Mitsubishi Fuso Canter For Fuso Canter (EDC7C4-6/EDC16C31) For Fuso Canter Euro 5 CAN-bus (EDC17CP15) For Fuso Canter Euro 5 CAN-bus (EDC17CP52) Reading, writing, checksum correction. —-Module 57 VAG MED17/EDC17 CAN TP2.0/K-Line EDC17U01/U05/CP04/CP14 K-Line ME17/MED17/EDC17 CAN TP2.0 EDC17CP20 VW Crafter 2.5L TDI Virtual reading, writing, checksum correction. —-Module 58 For Honda PGM-FI (for Bosch EDC17CP06/EDC17CP16/2MB) Writing, checksum correction. PGM-FI (for Bosch EDC17CP50/4MB) [Unlocked] PGM-FI (for Bosch EDC17C58/4MB) [Unlocked] PGM-FI (for Bosch EDC17C72/2.5MB) [Unlocked] PGM-FI (for Bosch MED17.9.3/4MB) [Unlocked] PGM-FI (for Bosch ME17.9.55/1.5MB) [Unlocked] Writing after unlocking with Module 53 or 71, checksum correction. —-Module 59 For Nissan EFI ME7.9.20 Calibration (for Bosch ST10F275 EXT/512KB) Writing, checksum correction. —-Module 60 For JLR Denso Freelander 2 (L359) 3.2L V6 233PS (Denso) For Jaguar XF/XJ/XK (X250/X350/X351/X150) 3.0L V6, 3.5L V8, 4.2L V8/SC (Denso) For Range Rover/Sport/Discovery 3 4.0L V6, 4.4L V8, 4.2L V8/SC (Denso) For Range Rover (L320/L322/L319), Jaguar (X150/X250/X351) 5.0L V8/SC (Denso) Reading, writing, checksum correction. —-Module 61 For Mercedes-Benz MED17/EDC17 MED17.7.1/17.7.2/17.7.3/17.7.3.1/17.7.5 Virtual reading, writing, checksum correction. MED17.7.1/17.7.2/17.7.3/17.7.3.1 Writing, checksum correction. EDC17CP01/CP10 (only ECUs with extrenal FLASH memory) EDC17CP46/CP57/CP60/C66 Reading, writing, checksum correction. M156/M272/M273 (ME9.7) Calibration reading, writing, checksum correction. —-Module 62 For Jeep EDC17 2.8L CRDI (EDC17CP27) [Test] 3.0L CRDI (EDC17C49/C79) reading may require direct connection to the ECU Reading, writing, checksum correction. —-Module 63 For Bosch MEDC17 Bootloader (direct connection to the ECU connector, Scanmatik 2 Pro, a connection cable and a power supply are required) MEDC17 (TC1762/1766/1792/1796) FLASH MEDC17 (TC1724/1728/1767/1782/1784/1797) FLASH MEDC17 (TC1791/1793) FLASH Reading, writing, checksum correction. MEDC17 (TC1762/1766/1792/1796) EEPROM MEDC17 (TC1724/1728/1767/1782/1784/1797) EEPROM MEDC17 (TC1791/1793) EEPROM Reading, writing MEDC17 BSL PASSWORD Reading.",
+    "price": 25000,
+    "regularPrice": 25000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/pcmflash5.jpg"
+  },
+  {
+    "id": 3729,
+    "name": "PCM TOOL SUPER J2534",
+    "slug": "pcm-tool-super-j2534",
+    "shortDescription": "programador de unidades automotrices",
+    "description": "PCMTOOL SUPER J2534 es una interfaz que te permite programar unidades automotrices tanto en banco, como por obd2. usándolo con software como pcmflash también te permite realizar diagnósticos y reprogramaciones mediante protocolos j2534 lo cual cubre una amplia gama de software específicos de cada fabricante de vehículos, y también protocolos de maquinaria RP1210 Funciones: 1. Leer y escribir datos de la ECU 2. Clon de ECU 3. Parámetros de la ECU 4. Ingeniería de mantenimiento de la ECU 6. Leer los mapas de la ECU 7. Corrección de la suma de comprobación 8. caja de cambios, LC, pantalla deportiva 9. Leer archivos flash y ep 10. Tren motriz 11. Pinout viene con 13. Lectura OBD2 14. Lectura de datos sin necesidad de desmontar ni manipular la cubierta, lo que reduce en gran medida el riesgo de dañar la ECU. 15. Lectura de datos de apertura de tapa, modo de arranque 200 recién añadido para protocolos de lectura/escritura Bosch MED/EDC17 sin abrir la cubierta. VAG Simos 12,1, 12,2 VAG Simos PCR2.1 FCA GPEC2, GPEC2A, GPEC4, GPEC4LM Hyundai/KIA, Ford/LR SID208 Lectura de flash Para Scania EMS S8 BAM. Solo Conexión de PCB de 3 puntos en los orificios VIA. Se puede conectar sin quitar el gel. PSA SID208 MB SID307, SID310 Renault SID307, SID309, SID310 Porsche SDI21.x Mitsubishi E6T83XXX, E6T32xxx Para Isuzu Transtron SH72544R Para Isuzu Transtron L4.3 Hino EDC7UC31 Para Hyundai, Greatwall DCM6.2AP Qué programa admite: 1. Aplicación de flash Chrysler 2.GM gds2 / SPS- Ford FDR, Forscan 3.Hino DX2 4.Honda HDS 5.Land Rover Jaguar SDD 6.Nissan consulta 3 +- ODIS 7. Clip Renault 8.Toyota Lexus Techstream 9.Volvo Vida-Mer-cedes Benz XENTRY/Das 10.Cummins INSITE 11.Cummins calterm LL 12.Caterpillar et-Servicio JCB master4 13. Herramienta tecnológica Premium Volvo 14. Caja de herramientas WABCO 15. Diagnóstico del sistema de aire acondicionado Eaton 16.Detroit DDDL 17. Software de diagnóstico de transmisión Allison 18. Software de diagnóstico de camiones Noregon jpro 19. Otro software original",
+    "price": 120000,
+    "regularPrice": 120000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/pcmtool4.jpg"
+  },
+  {
+    "id": 3709,
+    "name": "DIAGBOX V09.193",
+    "slug": "diagbox-v09-193",
+    "shortDescription": "Software para interface lexia clone. link de descarga a nuestra nube de mega.",
+    "description": "PESO: 4.75GB DESCARGA POR MEGA esta versión no requiere de instalaciones complejas, al ser una instalación nativa esta quedara instalada en el disco duro de su computador. no como en versiones no nativas o montadas en máquinas virtuales. el instalador se encarga de instalare en su computador todo lo necesario para que el software función como librerías c++ visual Basic, etc. usted solo debe hacer clic en el instalador desatendido y el hará toda la instalación por usted, sin complicaciones, usted solo espere a que termine y estará listo para trabajar. compatible con interface lexia clones.",
+    "price": 20000,
+    "regularPrice": 20000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/diagbox.jpg"
+  },
+  {
+    "id": 3702,
+    "name": "TOYOLEX 4 BLACK INMO",
+    "slug": "toyolex-4-black-inmo-edition",
+    "shortDescription": "Software orientado a la eliminación del inmovilizador",
+    "description": "Toyolex 4 – Black Diamond Edition Special IMMO OFF Admite archivos de generación 1, 2 y 3 de ECU Toyota y Lexus Denso con los siguientes núcleos MCU: – Denso Generación 3: R7F701202 y R7F701216. – Denso Generación 2: D76F0199GD, D76F0196F1, D76F0219F1. – Denso Generación 1: serie NEC 76F00XX (actualmente no es compatible con la antigua máscara Denso core 76F0004GD que se encuentra en algunos automóviles modelos 2001-2004) – Algoritmo exclusivo que reconoce el bloqueo del inmovilizador en un archivo Flash, realizando la tarea de desactivación sólo en dicha memoria y con un solo clic. – Función especial automática que borra los DTC junto con la función de desactivación del inmovilizador. – Al realizar el proceso sólo en la memoria Flash, la mayoría de las tareas de desactivación del inmovilizador se pueden realizar a través del puerto OBD II sin necesidad de abrir la ECU. – No más cortar/desinstalar ningún cable o módulo después de apagar Immo, ¡simplemente programe el archivo generado por ToyoLex 4 BDE y encienda el motor! – Soporte y procesamiento de archivos de TODAS las ECUs Denso para motores DIESEL y GASOLINA. – Trabajar con riesgo CERO en ECU Denso Generación 3. – Permitir archivos binarios de cualquier herramienta de Flasheo del mercado que soporte ECUs Denso para autos Toyota y Lexus. – Probado en sistemas con llave extraíble y sistemas START-STOP. – NO admite ECU para vehículos híbridos (1) y ECU Gen 3 bloqueadas por programación incorrecta. – No probado en ECU vírgenes de fábrica (ECU nuevas aún no instaladas).",
+    "price": 9800,
+    "regularPrice": 9800,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/toy.jpg"
+  },
+  {
+    "id": 3697,
+    "name": "TOYOLEX 3",
+    "slug": "toyolex-3",
+    "shortDescription": "Software para modificar archivos en módulos Toyota.",
+    "description": "– Admite archivos de generación 1, 2 y 3 de las ECU Denso de Toyota y Lexus. Función de borrado de DTC y funciones especiales , en Diesel, Gasolina e Híbridos para Gen 1, 2 y 3 con Cuadrícula de listado de DTC. – Admite borrado de DTC «P», «B» y «U» . Algoritmo exclusivo que reconoce la estructura de las tablas DTC Gen 3 también integradas en archivos Denso Gen 2 con análisis de clase DTC. – Se agregó un nuevo algoritmo que permite la función de borrado de DTC también en vehículos con motor híbrido. – Función de desactivación del sistema Adblue/SCR. – Función de desactivación del filtro de partículas diésel [DPF] para todas las ECU de Denso Generations. – Reconocimiento de DPF y procesamiento de desactivación para Hino y Coaster con código de motor N04. – Función especial AGS [Active Grill Shutter] Desactivada (Gen 2 y Gen 3 (beta)). – SAP [Bomba de aire secundaria] Desactivación de función especial para motores 3UR-FE (Beta para archivos de motor 2UZ-FE). – Función especial Valvematic Off para motores 2ZR y 3ZR. – Función de corrección del limitador de velocidad del vehículo [Vmax] para motores diésel 1GD-FTV, 2GD-FTV, 1KD-FTV y 2KD-FTV. Función de corrección del limitador de velocidad del vehículo [Vmax] para los códigos de motor: 1CDFTV, N04C, 1ADFTV, 2ADFTV, 2ADFHV, 1VDFTV, en las ECU Gen 1. – Función de desactivación del sistema catalizador [CAT – Sensor Lambda] para motores diésel 1GD-FTV y 2GD-FTV. – Función de desactivación del sistema catalizador [CAT – Sensor Lambda] para todos los motores de gasolina. – Función de desactivación de recirculación de gases de escape [EGR]. – Función de desactivación de la válvula del colector de admisión [IMV]. – Función de desactivación del corredor del colector de admisión [IMR]. – Función de desactivación del inmovilizador [IMMO OFF] en 1KD-FTV, 2KD-FTV, 1GD-FTV y 2GD-FTV con ECU Denso Gen 1 y Gen 2. – Función de reconocimiento automático de generación de archivos que simplifica el proceso de selección de la función a iniciar.",
+    "price": 12000,
+    "regularPrice": 12000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/toyolex-3.jpg"
+  },
+  {
+    "id": 3685,
+    "name": "power scan ps100",
+    "slug": "power-scan-ps100",
+    "shortDescription": "1. Realiza todo tipo de servicios incluyendo la inyección de energía eléctrica; hace medición, compruebas tierras, verifica polaridad, prueba continuidad y activa componentes eléctricos 2. El AVOmetro es fácil de leer y permite medir Voltaje, Corriente y Resistencia con su punta de pruebas 3. Con el interruptor de alimentación, se dispone de una toma instantánea de voltaje/tierra para alimentar componentes eléctricos como moto-ventiladores, relevadores, Focos, etc. 4. Usa simultáneamente la línea Positiva y la línea de Tierra para activar componentes directamente en su mano 5. Identifica instantáneamente los Circuitos positivos, negativos y abiertos 6. Comprueba instantáneamente circuitos con Tierra deficiente, permitiéndole seguir y localizar circuitos en Corto rápidamente, sin malgastar fusibles 7. Prueba instantáneamente Continuidad en interruptores, relés y diodos 8. Protegido con un disyuntor de circuito para prevenir daños 9. Linterna integrada que permite trabajar en la oscuridad 10. Indicador del tono audible, para desplazarse por el menú sin mirar la pantalla, cuando ya se está familiarizado con la asignación de opciones del menú 11. Cable de 20ft/6m (extensión) que ofrece una excelente accesibilidad para realizar pruebas a lo largo de todo el vehículo 12. Extremadamente fácil de usar y altamente fiable",
+    "description": "La herramienta PowerScan PS100 es el Probador de Circuitos Eléctricos más revolucionario hasta el momento. Se caracteriza por contar con un AVOmetro (Amper-Volt-Ohm), Luz de prueba y Linterna integradas, indicador de Circuito en Corto, Activador de Relevadores y Componentes eléctricos, probador de Continuidad e indicador de Circuitos con Tierra Deficiente. El PowerScan es definitivamente la mejor opción en versatilidad de funciones y accesibilidad de precio, permitiendo a los usuarios la comprobación de circuitos directamente y a un paso. Es una herramienta imprescindible para los técnicos que buscan una solución rápida y precisa para el diagnóstico de sistemas eléctricos.",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-diagnostico",
+        "name": "Equipos de diagnóstico"
+      }
+    ],
+    "image": "/images/products/ps100.jpg"
+  },
+  {
+    "id": 3682,
+    "name": "95040",
+    "slug": "95040",
+    "shortDescription": "",
+    "description": "",
+    "price": 2000,
+    "regularPrice": 2000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "componentes-electronicos",
+        "name": "Componentes electrónicos"
+      }
+    ],
+    "image": "/images/products/95040.jpg"
+  },
+  {
+    "id": 3679,
+    "name": "95080",
+    "slug": "95080",
+    "shortDescription": "",
+    "description": "",
+    "price": 2000,
+    "regularPrice": 2000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "componentes-electronicos",
+        "name": "Componentes electrónicos"
+      }
+    ],
+    "image": "/images/products/95080.jpg"
+  },
+  {
+    "id": 3676,
+    "name": "24c02",
+    "slug": "24c02",
+    "shortDescription": "",
+    "description": "",
+    "price": 2000,
+    "regularPrice": 2000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "componentes-electronicos",
+        "name": "Componentes electrónicos"
+      }
+    ],
+    "image": "/images/products/24C02.jpg"
+  },
+  {
+    "id": 3672,
+    "name": "93c66",
+    "slug": "93c66",
+    "shortDescription": "",
+    "description": "",
+    "price": 2000,
+    "regularPrice": 2000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "componentes-electronicos",
+        "name": "Componentes electrónicos"
+      }
+    ],
+    "image": "/images/products/93c66-2.jpg"
+  },
+  {
+    "id": 3668,
+    "name": "curso programador UPA",
+    "slug": "curso-programador-upa",
+    "shortDescription": "",
+    "description": "Curso dirigido a quienes quieran sacar el máximo provecho a esta versátil herramienta de programación. no sabes cómo usar tu programador upa? ¡este curso es para ti!",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/curso-upa.jpg"
+  },
+  {
+    "id": 3664,
+    "name": "script upa",
+    "slug": "script-upa",
+    "shortDescription": "",
+    "description": "coleccio9n de script compatible conupa-s y upa clon.",
+    "price": 12000,
+    "regularPrice": 12000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/script-upa.jpg"
+  },
+  {
+    "id": 3660,
+    "name": "inmo off",
+    "slug": "inmo-off",
+    "shortDescription": "",
+    "description": "desbloqueo de computadores",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "servicios",
+        "name": "Servicios"
+      }
+    ],
+    "image": "/images/products/DESBLOQUEO-DE-COMPUTADORES.jpg"
+  },
+  {
+    "id": 3656,
+    "name": "reparación de módulos",
+    "slug": "reparacion-de-modulos",
+    "shortDescription": "",
+    "description": "reparación de diversas unidades automotrices",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "servicios",
+        "name": "Servicios"
+      }
+    ],
+    "image": "/images/products/REPARACION-DE-MODULOS.jpg"
+  },
+  {
+    "id": 3652,
+    "name": "DPF",
+    "slug": "dpf",
+    "shortDescription": "servicio de reprogramacion de la unidad de motor.",
+    "description": "Programación unidad de motor",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "servicios",
+        "name": "Servicios"
+      }
+    ],
+    "image": "/images/products/PTOGRAMACION-DPF-OFF.jpg"
+  },
+  {
+    "id": 3648,
+    "name": "SAGEM S2000",
+    "slug": "sagem-s2000",
+    "shortDescription": "unidad de control de motor original sin desbloquear",
+    "description": "",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "modulos-automotrices",
+        "name": "Módulos automotrices"
+      }
+    ],
+    "image": "/images/products/SAGEM-S2000.jpg"
+  },
+  {
+    "id": 3636,
+    "name": "Bosch EDC16C34 PSA",
+    "slug": "bosch-edc16c34-psa",
+    "shortDescription": "Unidad de motor desbloqueada y probada en banco",
+    "description": "",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "modulos-automotrices",
+        "name": "Módulos automotrices"
+      }
+    ],
+    "image": "/images/products/EDC16C34.jpg"
+  },
+  {
+    "id": 3632,
+    "name": "Bosch edc17C10 PSA",
+    "slug": "bosch-edc17c10-psa",
+    "shortDescription": "Unidad desbloqueada y probada en banco lista para montar en el vehículo",
+    "description": "",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "modulos-automotrices",
+        "name": "Módulos automotrices"
+      }
+    ],
+    "image": "/images/products/EDC17C10.jpg"
+  },
+  {
+    "id": 3618,
+    "name": "PIN CONNECT digital",
+    "slug": "pin-connect-digital",
+    "shortDescription": "software de ayudas para conectar unidades automotrices en banco.",
+    "description": "pin connect digital de nuestro software de conexionados corresponde a la versión inicial. la cual se distribuirá mediante envió personalizado a cada comprador, esta versión dará inicio a la versión completa, con la compra se enviará una versión inicial del software y tendrán acceso a nuestro grupo donde decidiremos cuales serán los módulos que más se utilizan para desarrollar una versión definitiva con los conexionados más usados por todos los talleres y laboratorios automotrices que adquieran pin connect.",
+    "price": 50000,
+    "regularPrice": 50000,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "productos-digitales",
+        "name": "Productos digitales"
+      }
+    ],
+    "image": "/images/products/1.jpg"
+  },
+  {
+    "id": 3614,
+    "name": "NGD 8201 AG",
+    "slug": "ngd-8201-ag",
+    "shortDescription": "Componente utilizado para control de bobinas de encendido",
+    "description": "",
+    "price": 4000,
+    "regularPrice": 4000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "componentes-electronicos",
+        "name": "Componentes electrónicos"
+      }
+    ],
+    "image": "/images/products/ngd8201.jpg"
+  },
+  {
+    "id": 3607,
+    "name": "ST95160",
+    "slug": "st95160",
+    "shortDescription": "",
+    "description": "memorias para unidades automotrices",
+    "price": 2000,
+    "regularPrice": 2000,
+    "onSale": false,
+    "inStock": true,
+    "categories": [
+      {
+        "slug": "componentes-electronicos",
+        "name": "Componentes electrónicos"
+      }
+    ],
+    "image": "/images/products/eeprom-memory-chip-95160-soic-8.jpg"
+  },
+  {
+    "id": 532,
+    "name": "GODIAG GT100",
+    "slug": "coodiac",
+    "shortDescription": "GT100 dispositivo que permite interconectar múltiples módulos automotrices.",
+    "description": "Conector de banco ECU de caja de desconexión Godiag GT100 OBDII con electrónica Visualización actual Aspectos destacados de GODIAG GT100 1 año de garantía. Utilizado con KESS V2 y Ktag Conexión ECU + Detector de protocolo OBDII + Pantalla electrónica de corriente El cable se puede extender, con un adaptador dedicado opcional Compatible con herramientas de LAUNCH, AUTEL, FOXWELL, XHORSE, VXDIAG, CGDI&#8230;.. Convierta la interfaz de diagnóstico OBD1 a la interfaz de diagnóstico OBD2 estándar Se utiliza para la plataforma de prueba del adaptador BMW-CAS4 para detectar si la programación de la clave CAS4 funciona perfectamente o no GT100 GT100 agrega visualización de corriente electrónica. GT100 agrega comunicación con protocolo CANBUS Restablecer el instrumento/inmovilizador cuando se pierdan todas las llaves. GODIAG GT100 es una plataforma de prueba más reciente para la detección de comunicación del protocolo OBDII y el mantenimiento/diagnóstico/programación/codificación de ECU. Y después de perder todas las claves, el instrumento y el sistema antirrobo se ven obligados a activarse mediante un cortocircuito. GT100 tiene una visualización de voltaje y corriente. Es conveniente que los ingenieros de mantenimiento juzguen el estado de funcionamiento actual de la ECU. Puede convertir la interfaz OBD2 del automóvil en 16 pines para detección de señal y conversión de nivel eléctrico. Capaz de conectar los módulos individuales o múltiples módulos del vehículo. Se puede conectar con cualquier herramienta de diagnóstico para saber si la comunicación del automóvil es buena o no. También puede suministrar energía al automóvil cuando cambia la batería para evitar que se pierdan los datos del módulo de control del vehículo, se bloqueen automáticamente, el control remoto de la llave falla y se enciende la luz de falla.",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/s-l1200.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Kess V2",
+    "slug": "kess_v2",
+    "shortDescription": "Kess V2 puede leer y escribir ECUS a través de puerto OBD2",
+    "description": "El KESS V2 es una herramienta avanzada de chiptuning que permite leer y escribir ECU y TCU de vehículos a través del puerto OBD, optimizando el rendimiento del motor y la transmisión. Características Principales Compatibilidad Amplia: KESS V2 es compatible con una amplia gama de vehículos, incluyendo automóviles, motocicletas, camiones, tractores y embarcaciones. Soporta marcas como Audi, BMW, Ford, Mercedes, y muchas más. Funciones de Programación: Permite leer y escribir archivos originales o modificados directamente desde la ECU/TCU. Incluye funciones avanzadas como la corrección automática de checksum y la recuperación en caso de errores durante el proceso de escritura. Protocolos Soportados: Compatible con varios protocolos, incluyendo CAN, K-Line, EDC17, MED17, y Denso Toyota, lo que garantiza versatilidad en la programación. Interfaz Intuitiva: El software K-Suite proporciona una interfaz fácil de usar para gestionar lecturas y escrituras, así como actualizaciones frecuentes para añadir compatibilidad con nuevos vehículos.",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/71x7aR2oUiL.jpg"
+  },
+  {
+    "id": 98,
+    "name": "K-TAG",
+    "slug": "ktag",
+    "shortDescription": "K-TAG Programador de centralitas",
+    "description": "K-TAG es una herramienta profesional del fabricante Alientech para leer, escribir y clonar ECUs (Unidades de Control del Motor) y TCUs (Unidades de Control de Transmisión) de diversos vehículos, como automóviles, motocicletas, camiones y maquinaria agrícola y marina. Permite acceder directamente al microprocesador, la memoria flash y la EEPROM de la ECU sin necesidad de abrirla, facilitando la personalización avanzada, la creación de copias de seguridad y la modificación de los parámetros de rendimiento del motor mediante software especializado.",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/80de3acc-0a7b-46cf-bc16-f13baeb2af31.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Programador UPA 1.3",
+    "slug": "upa",
+    "shortDescription": "El nuevo Upa-usb es el conjunto completo con todos los adaptadores. El dispositivo principal se puede conectar directamente al UUSP (Programador en serie UPA-USB) de Elrasoft.com o mediante un cable de extensión DB9 macho / hembra 1: 1 opcional. Está equipado con un enchufe ZIF de 40 pines para todos los dispositivos DIP / DIL estrechos y anchos, así como con un enchufe SOIC ZIF (150 mil, estrecho) de 16 pines para cubrir los dispositivos más utilizados. La configuración del dispositivo se realiza a través de claves de configuración especiales que hacen que el trabajo sea conveniente y seguro en comparación con el cableado manual. Los paquetes adicionales se pueden cubrir con adaptadores comúnmente disponibles enchufados en el zócalo ZIF de 40 pines. El dispositivo principal incluye además un conector ISP de 10 pines donde los adaptadores ISP incluidos se pueden conectar mediante un cable flatribbon estándar 1: 1 (incluido). Los adaptadores PLCC ISP incluidos deben colocarse directamente sobre el chip soldado del dispositivo de destino, lo que hace que el trabajo sea conveniente y seguro en comparación con la soldadura o el uso de clips que se conectan todo manualmente. (La alimentación desde la UUSP al destino del ISP se puede habilitar o deshabilitar mediante un puente junto al conector ISP de 10 pines) Información de actualización del programador de dispositivos UPA-USB V1.3: Se agregó compatibilidad con MC9S12HY64 / HA32 Soporte de memoria flash serial agregado: A25L512 / 010/020/040/080/016/032, SST25VF512A / 010A / 020B / 040B / 080B / 016B / 032B, S25FL004A / 008A / 016A / 032A / 064A Se agregó soporte 24C1024, 24C1025 Se agregó memoria de borrado masivo de datos a los PIC 16F913-7 / 946, 12F629 / 675 Función de script agregada GetPage Función de script agregada AutoBaudRateDevice (solo dispositivos hc08) Se agregó la función de script GetProgrammerFrameChildCtrl (AChildCtrlName: string): TControl Se agregó la función de script EnablePicMemoryAreas (AProgram, AID, AConfig, ACalibration, AEEPROM: boolean): boolean; Se corrigió un error con las funciones de script ProgramDevice, ReadDevice … cuando se usa con PIC Error corregido con la función SetHC08SecurityBytes (SecBytes: string) Se corrigió el error con la lectura de 68hc11 si el oscilador no está configurado en Auto Archivos de ejemplo de script actualizados El software está firmado digitalmente El controlador USB upausb.sys está firmado digitalmente EEproms Simplemente conecte la placa base al programador UPA directamente o usando un cable de extensión DB9 macho / hembra (1: 1). Inserte la clave de configuración correcta en la ranura de la placa base y comience a programar a través del ZIF o SOIC Socket. También puede utilizar el cabezal de cinta plana DIL a 10 pines incluido, colocarlo dentro del zócalo ZIF y conectar un clip o abrazaderas SOIC para uso de ISP desde allí. MCU de Motorola Elija el adaptador que desee utilizar, conecte el cable plano al adaptador (siempre se indica PIN1, tanto en el cable como en el adaptador) y también al conector ISP de 10 pines de la placa principal. Seleccione la fuente de suministro de VCC mediante el puente en la placa principal junto al conector ISP (encendido = destino suministrado desde upa, apagado = destino tiene suministro propio). Deslice el adaptador sobre la MCU PLCC soldada en la PCB de destino. (Sin soldadura, sin revisión de pines, sin recuento de pines, ahorra mucho tiempo y molestias y le permite hacer su trabajo más rápido, preciso y más fácil) Una vez que su taller esté equipado con nuestro juego de adaptadores, tendrá una experiencia UPA completamente nueva. TMicroelectronics ST62*: ST6240, ST6245, ST6249 NSC CR16*: CR16HCS5(9), CR16MCS5(9), CR16MES5(9), CR16MFS5(9), CR16MCT5/9, CR16HCT5/9 Motorola HC05*: MC68HC05B6, MC68HC05B8, MC68HC05B16, MC68HC705B16, MC68HC05B32, MC68HC05E6, MC68HC705E6, MC68HC05H12, MC68HC05L28, MC68HC05P3, MC68HC705P3*, MC68HC05X16, MC68HC05X32 Motorola HC08*: MC68HC08AS20, MC68HC08AS32, MC68HC08AS60, MC68HC08AZ32, MC68HC(9)08AZ32A, MC68HC908AZ60, MC68HC908AZ60A Motorola HC11*: MC68HC11A1, MC68HC11A8, MC68HC11E9, MC68HC11EA9, MC68HC11E20, MC68HC11F1, MC68HC11K4, MC68HC11KA2, MC68HC11KA4, MC68HC11KG4, MC68HC11KS2, MC68HC11KS8, MC68HC11L6, MC68HC11P2, MC68HC11PA8, MC68HC11PH8 Motorola HC12*: MC68HC912B32, MC68HC912BE32, MC68HC912D60, MC68HC912D60A, MC68HC912DC128A, MC68HC912DG128, MC68HC912DG128A Motorola HCS12*: MC9S12D64, MC9S12A128, MC9S12DG128, MC9S12DG256, MC9S12H128, MC9S12H256 Atmel 8051 Architecture: AT89S51, AT89S52, AT89S53, AT89S8252, AT89S8253 Atmel AVR 8-Bit Risk: AT90S1200, AT90S2313, AT90S2323, AT90S2333, AT90S2343, AT90S4433, AT90S4434, AT90S8515, AT90S8535, ATmega8, ATmega16, ATmega161, ATmega162, ATmega163, ATmega323, ATmega64, ATmega103, ATmega128, ATtiny12, ATtiny15, ATtiny2313 Microchip PIC12: PIC12F508, PIC12F509, PIC12F629, PIC12F675 Microchip PIC16: PIC16F627(A), PIC16F628(A), PIC16F648A, PIC16F72, PIC16F73, PIC16F74, PIC16F76, PIC16F77, PIC16F818, PIC16F819, PIC16F83, PIC16F84(A), PIC16F870, PIC16F871, PIC16F872, PIC16F873(A), PIC16F874(A), PIC16F876(A), PIC16F877(A) EEPROMs I2C: 24C01, 24C02, 24C04, 24C08, 24C16, 24C32, 24C64, 24C65, 24C128, 24C256, 24C512, 85C72, 85C82, 85C92, BAW574252, GRM-003, GRM-004, GRM-005, KKZ-06F, MCM2814, PCA8581, PCF8581, PCF8582, PCF8594, PCF8598, PCF85102, PCF85116, SDA2516, SDA2526, SDA2546, X24C00, X24C01 EEPROMs Microwire: 7002, 93C06, 93C14, 93C46, 93C56, 93C57, 93C66, 93C76, 93C86, 93S46, 93S56, 93S66, GRN-001, GRO-002, KKZ-01, S220, S2914, ST61907, XLS93C46 EEPROMs SPI: M35080, 25C010, 25C020, 25C040, 25C080, 25C128, 25C160, 25C256, 25C320, 25C640, M25P05, M25P10, M25P20, M25P40, M25P80, ST95010, ST95020, ST95040, ST95080, ST95160, ST95320, ST95640, ST95P02, ST95P04, ST95P08, X5043, X5045 EEPROMs Miscellaneous: CXK1011, CXK1012, CXK1013, M6M80011, M6M80021, M6M80041, SDE2506, TC89101, TC89102 *Solo EEPROM NEC ..uDP780828A uDP780948 uDP780949 uDP780973 uDP780974 TMS…TMS370CX02 TMS370CX32 TMS370CX36 TMS370CX42 TMS370CX56 TMS370CX56 TMS370CX56 78K0/HC912 TMS370CX58 TMS370CX58 78K0/HC912 TMS375C006",
+    "description": "programador de memorias y microprocesadores",
+    "price": 0,
+    "regularPrice": 0,
+    "onSale": false,
+    "inStock": false,
+    "categories": [
+      {
+        "slug": "equipos-de-programacion",
+        "name": "Equipos de programación"
+      }
+    ],
+    "image": "/images/products/HTB1QEM2QVXXXXbhaX-1.jpg"
+  }
+]

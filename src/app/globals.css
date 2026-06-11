@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@theme {
+  /* Marca: índigo del logo GAMA */
+  --color-brand-50: #eef0fb;
+  --color-brand-100: #dadef5;
+  --color-brand-200: #b8bfec;
+  --color-brand-300: #8f99de;
+  --color-brand-400: #6a72cd;
+  --color-brand-500: #5054b8;
+  --color-brand-600: #42429d;
+  --color-brand-700: #393680;
+  --color-brand-800: #322f68;
+  --color-brand-900: #2b2a55;
+  --color-brand-950: #1a1933;
+
+  /* Acento: rojo TRONICA */
+  --color-accent-50: #fef2f2;
+  --color-accent-100: #fde3e3;
+  --color-accent-200: #fbcdcd;
+  --color-accent-300: #f8a9a9;
+  --color-accent-400: #f17676;
+  --color-accent-500: #e64a4a;
+  --color-accent-600: #d22c2c;
+  --color-accent-700: #b02121;
+  --color-accent-800: #921f1f;
+  --color-accent-900: #791f1f;
+  --color-accent-950: #420b0b;
+
+  --font-sans: var(--font-geist-sans), system-ui, sans-serif;
+  --font-display: var(--font-space-grotesk), var(--font-geist-sans), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), monospace;
+
+  --animate-fade-up: fade-up 0.5s ease both;
+
+  @keyframes fade-up {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #fafafa;
+  color: #18181b;
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+}
+
+/* Accesibilidad: foco visible consistente */
+:focus-visible {
+  outline: 2px solid var(--color-brand-600);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+::selection {
+  background: var(--color-brand-200);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
