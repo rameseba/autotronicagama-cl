@@ -13,6 +13,8 @@ import {
   ShieldAlert,
   Trash2,
   UploadCloud,
+  UserCheck,
+  UserX,
   X,
 } from "lucide-react";
 import { createClient } from "@/lib/supabase/client";
@@ -24,6 +26,13 @@ type PendingFile = {
   name: string;
   tags: string;
   preview: string;
+};
+
+type Profile = {
+  id: string;
+  email: string;
+  approved: boolean;
+  created_at: string;
 };
 
 function cleanFileName(fileName: string): string {
@@ -42,7 +51,17 @@ export function AdminPanel() {
   const [editingId, setEditingId] = useState<string | null>(null);
   const [editName, setEditName] = useState("");
   const [dragOver, setDragOver] = useState(false);
+  const [users, setUsers] = useState<Profile[]>([]);
+  const [adminEmail, setAdminEmail] = useState<string | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  const loadUsers = useCallback(async () => {
+    const { data } = await supabase
+      .from("profiles")
+      .select("id, email, approved, created_at")
+      .order("created_at", { ascending: false });
+    setUsers((data ?? []) as Profile[]);
+  }, [supabase]);
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -77,9 +96,27 @@ export function AdminPanel() {
         .eq("email", user.email)
         .maybeSingle();
       setIsAdmin(Boolean(data));
-      if (data) load();
+      if (data) {
+        setAdminEmail(user.email ?? null);
+        load();
+        loadUsers();
+      }
     });
-  }, [supabase, load]);
+  }, [supabase, load, loadUsers]);
+
+  async function toggleApproval(profile: Profile) {
+    const { error } = await supabase
+      .from("profiles")
+      .update({ approved: !profile.approved })
+      .eq("id", profile.id);
+    if (error) {
+      setNotice({ kind: "error", text: "No se pudo actualizar el usuario. Inténtalo de nuevo." });
+      return;
+    }
+    setUsers((prev) =>
+      prev.map((u) => (u.id === profile.id ? { ...u, approved: !u.approved } : u))
+    );
+  }
 
   function addFiles(files: FileList | File[]) {
     const list = Array.from(files).filter((f) => f.type.startsWith("image/"));
@@ -367,6 +404,91 @@ export function AdminPanel() {
           >
             {notice.text}
           </p>
+        )}
+      </section>
+
+      {/* Usuarios */}
+      <section aria-labelledby="usuarios" className="mt-12">
+        <h2 id="usuarios" className="font-display text-xl font-semibold text-zinc-900">
+          Usuarios{" "}
+          {users.some((u) => !u.approved) && (
+            <span className="ml-1 rounded-full bg-amber-100 px-2.5 py-0.5 text-sm font-semibold text-amber-800">
+              {users.filter((u) => !u.approved).length} por aprobar
+            </span>
+          )}
+        </h2>
+        <p className="mt-1 text-sm text-zinc-500">
+          Las cuentas nuevas quedan pendientes hasta que las apruebes. Solo las aprobadas ven
+          la galería.
+        </p>
+        {users.length === 0 ? (
+          <p className="mt-4 rounded-2xl bg-white px-5 py-6 text-sm text-zinc-500 ring-1 ring-zinc-200">
+            Todavía no hay cuentas registradas.
+          </p>
+        ) : (
+          <ul className="mt-4 divide-y divide-zinc-100 rounded-2xl bg-white ring-1 ring-zinc-200">
+            {users.map((u) => (
+              <li
+                key={u.id}
+                className="flex flex-wrap items-center justify-between gap-3 px-5 py-3.5"
+              >
+                <div className="min-w-0">
+                  <p className="truncate text-sm font-medium text-zinc-800">
+                    {u.email}
+                    {u.email === adminEmail && (
+                      <span className="ml-2 rounded-full bg-brand-50 px-2 py-0.5 text-xs font-semibold text-brand-700">
+                        tú
+                      </span>
+                    )}
+                  </p>
+                  <p className="text-xs text-zinc-400">
+                    Registrado el{" "}
+                    {new Date(u.created_at).toLocaleDateString("es-CL", {
+                      day: "numeric",
+                      month: "long",
+                      year: "numeric",
+                    })}
+                  </p>
+                </div>
+                <div className="flex items-center gap-3">
+                  <span
+                    className={cn(
+                      "rounded-full px-2.5 py-1 text-xs font-semibold",
+                      u.approved
+                        ? "bg-green-50 text-green-700"
+                        : "bg-amber-50 text-amber-700"
+                    )}
+                  >
+                    {u.approved ? "Aprobado" : "Pendiente"}
+                  </span>
+                  {u.email !== adminEmail && (
+                    <button
+                      type="button"
+                      onClick={() => toggleApproval(u)}
+                      className={cn(
+                        "inline-flex items-center gap-1.5 rounded-full px-4 py-2 text-xs font-semibold transition-colors",
+                        u.approved
+                          ? "border border-zinc-300 bg-white text-zinc-600 hover:bg-zinc-100"
+                          : "bg-green-600 text-white hover:bg-green-700"
+                      )}
+                    >
+                      {u.approved ? (
+                        <>
+                          <UserX className="h-3.5 w-3.5" aria-hidden="true" />
+                          Quitar acceso
+                        </>
+                      ) : (
+                        <>
+                          <UserCheck className="h-3.5 w-3.5" aria-hidden="true" />
+                          Aprobar
+                        </>
+                      )}
+                    </button>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ul>
         )}
       </section>
 

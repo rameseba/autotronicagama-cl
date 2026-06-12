@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import {
+  Clock,
   Download,
   ImageOff,
   Loader2,
@@ -13,6 +14,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/client";
+import { site, whatsappLink } from "@/lib/site";
 import { normalize } from "@/lib/utils";
 
 export type GalleryImage = {
@@ -33,6 +35,7 @@ export function GalleryExplorer() {
   const [query, setQuery] = useState("");
   const [selected, setSelected] = useState<GalleryImage | null>(null);
   const [isAdmin, setIsAdmin] = useState(false);
+  const [approved, setApproved] = useState<boolean | null>(null);
   const searchRef = useRef<HTMLInputElement>(null);
 
   const load = useCallback(async () => {
@@ -65,15 +68,22 @@ export function GalleryExplorer() {
   }, [supabase]);
 
   useEffect(() => {
-    load();
     supabase.auth.getUser().then(async ({ data: { user } }) => {
-      if (!user?.email) return;
-      const { data } = await supabase
-        .from("admins")
-        .select("email")
-        .eq("email", user.email)
-        .maybeSingle();
-      setIsAdmin(Boolean(data));
+      if (!user) {
+        setApproved(false);
+        return;
+      }
+      const [{ data: adminRow }, { data: profile }] = await Promise.all([
+        user.email
+          ? supabase.from("admins").select("email").eq("email", user.email).maybeSingle()
+          : Promise.resolve({ data: null }),
+        supabase.from("profiles").select("approved").eq("id", user.id).maybeSingle(),
+      ]);
+      const admin = Boolean(adminRow);
+      const ok = admin || Boolean(profile?.approved);
+      setIsAdmin(admin);
+      setApproved(ok);
+      if (ok) load();
     });
   }, [load, supabase]);
 
@@ -102,6 +112,49 @@ export function GalleryExplorer() {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [selected]);
+
+  if (approved === null) {
+    return (
+      <div className="flex flex-1 items-center justify-center py-32">
+        <Loader2 className="h-8 w-8 animate-spin text-brand-600" aria-label="Cargando" />
+      </div>
+    );
+  }
+
+  if (!approved) {
+    return (
+      <div className="mx-auto flex w-full max-w-xl flex-col items-center gap-4 px-4 py-24 text-center">
+        <Clock className="h-12 w-12 text-amber-500" aria-hidden="true" />
+        <h1 className="font-display text-2xl font-bold text-zinc-900">
+          Cuenta pendiente de aprobación
+        </h1>
+        <p className="text-zinc-500">
+          Tu cuenta fue creada correctamente, pero un administrador debe aprobarla antes de
+          que puedas ver la galería. Te avisaremos en cuanto esté lista.
+        </p>
+        <a
+          href={whatsappLink(
+            "Hola, acabo de crear mi cuenta en la galería privada de " +
+              site.name +
+              " y quedó pendiente de aprobación."
+          )}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-2 rounded-full bg-brand-700 px-6 py-3 text-sm font-semibold text-white hover:bg-brand-800"
+        >
+          Avisar por WhatsApp
+        </a>
+        <button
+          type="button"
+          onClick={signOut}
+          className="inline-flex items-center gap-2 rounded-full border border-zinc-300 bg-white px-5 py-2.5 text-sm font-medium text-zinc-700 hover:bg-zinc-100"
+        >
+          <LogOut className="h-4 w-4" aria-hidden="true" />
+          Cerrar sesión
+        </button>
+      </div>
+    );
+  }
 
   return (
     <div className="mx-auto w-full max-w-7xl px-4 py-10 sm:px-6">

@@ -10,6 +10,7 @@ import { site, whatsappLink } from "@/lib/site";
 export function LoginForm() {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const [mode, setMode] = useState<"login" | "signup">("login");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [showPassword, setShowPassword] = useState(false);
@@ -23,6 +24,32 @@ export function LoginForm() {
     setError(null);
     setLoading(true);
     const supabase = createClient();
+
+    if (mode === "signup") {
+      const { data, error: signUpError } = await supabase.auth.signUp({
+        email: email.trim(),
+        password,
+      });
+      setLoading(false);
+      if (signUpError) {
+        setError(
+          signUpError.message.includes("already registered")
+            ? "Este correo ya tiene una cuenta. Usa «Ingresar» con tu contraseña."
+            : signUpError.message.includes("Password")
+              ? "La contraseña debe tener al menos 6 caracteres."
+              : signUpError.message.includes("invalid")
+                ? "El correo no es válido. Revísalo e inténtalo de nuevo."
+                : "No pudimos crear la cuenta. Inténtalo nuevamente en unos segundos."
+        );
+        return;
+      }
+      if (data.session) {
+        router.push("/galeria");
+        router.refresh();
+      }
+      return;
+    }
+
     const { error: authError } = await supabase.auth.signInWithPassword({
       email: email.trim(),
       password,
@@ -54,10 +81,12 @@ export function LoginForm() {
           />
         </div>
         <h1 className="mt-6 text-center font-display text-2xl font-bold text-zinc-900">
-          Acceso clientes
+          {mode === "login" ? "Acceso clientes" : "Crear cuenta"}
         </h1>
         <p className="mt-2 text-center text-sm text-zinc-500">
-          Ingresa con tu usuario y contraseña para ver la galería privada.
+          {mode === "login"
+            ? "Ingresa con tu usuario y contraseña para ver la galería privada."
+            : "Crea tu cuenta. Un administrador la aprobará antes de que puedas ver la galería."}
         </p>
 
         {!configured ? (
@@ -106,7 +135,8 @@ export function LoginForm() {
                   id="password"
                   type={showPassword ? "text" : "password"}
                   required
-                  autoComplete="current-password"
+                  minLength={6}
+                  autoComplete={mode === "login" ? "current-password" : "new-password"}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   className="w-full rounded-xl border border-zinc-300 bg-white py-3 pl-11 pr-12 text-sm text-zinc-900 placeholder:text-zinc-400 focus:border-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-200"
@@ -139,21 +169,58 @@ export function LoginForm() {
               ) : (
                 <KeyRound className="h-5 w-5" aria-hidden="true" />
               )}
-              {loading ? "Ingresando…" : "Ingresar"}
+              {loading
+                ? mode === "login"
+                  ? "Ingresando…"
+                  : "Creando cuenta…"
+                : mode === "login"
+                  ? "Ingresar"
+                  : "Crear cuenta"}
             </button>
           </form>
         )}
       </div>
 
       <p className="mt-5 text-center text-sm text-brand-200">
-        ¿No tienes cuenta?{" "}
+        {mode === "login" ? (
+          <>
+            ¿No tienes cuenta?{" "}
+            <button
+              type="button"
+              onClick={() => {
+                setMode("signup");
+                setError(null);
+              }}
+              className="font-semibold text-white underline underline-offset-4 hover:text-brand-100"
+            >
+              Créala aquí
+            </button>
+          </>
+        ) : (
+          <>
+            ¿Ya tienes cuenta?{" "}
+            <button
+              type="button"
+              onClick={() => {
+                setMode("login");
+                setError(null);
+              }}
+              className="font-semibold text-white underline underline-offset-4 hover:text-brand-100"
+            >
+              Ingresar
+            </button>
+          </>
+        )}
+      </p>
+      <p className="mt-2 text-center text-sm text-brand-200">
+        ¿Dudas con tu acceso?{" "}
         <a
-          href={whatsappLink("Hola, quiero solicitar acceso a la galería privada de " + site.name + ".")}
+          href={whatsappLink("Hola, tengo una consulta sobre la galería privada de " + site.name + ".")}
           target="_blank"
           rel="noopener noreferrer"
           className="font-semibold text-white underline underline-offset-4 hover:text-brand-100"
         >
-          Solicítala por WhatsApp
+          Escríbenos por WhatsApp
         </a>
       </p>
     </div>
